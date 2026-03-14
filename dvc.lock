@@ -1,0 +1,33 @@
+schema: '2.0'
+stages:
+  data_ingestion:
+    cmd: python src\data\data_ingestion.py
+    deps:
+    - path: src\data\data_ingestion.py
+      hash: md5
+      md5: afda2e88d2453c5efa1e2aa7ee028394
+      size: 773
+    outs:
+    - path: data/raw
+      hash: md5
+      md5: 9d81c0ae696720540da2dc7f106664c3.dir
+      size: 611832
+      nfiles: 1
+  feature_eng:
+    cmd: python src\features\feature_eng.py
+    deps:
+    - path: data/raw
+      hash: md5
+      md5: 9d81c0ae696720540da2dc7f106664c3.dir
+      size: 611832
+      nfiles: 1
+    - path: src\features\feature_eng.py
+      hash: md5
+      md5: 61b3b3818be2c3f6d68dea8fe8fed9b3
+      size: 5025
+    outs:
+    - path: data/interim
+      hash: md5
+      md5: 856b5cca7daf833fe078eb3533091d6c.dir
+      size: 366101
+      nfiles: 1
