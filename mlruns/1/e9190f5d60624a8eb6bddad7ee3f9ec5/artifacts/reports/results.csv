@@ -1,0 +1,2 @@
+Model,R2 Train,R2 Test,MSE Train,MSE Test,RMSE Train,RMSE Test,MAPE
+LightGBM,0.9829,0.8512,0.0094,0.0763,0.0968,0.2762,0.0193

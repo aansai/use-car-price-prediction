@@ -31,3 +31,21 @@ stages:
       md5: 856b5cca7daf833fe078eb3533091d6c.dir
       size: 366101
       nfiles: 1
+  model_evalute:
+    cmd: python src\models\model_evalute.py
+    deps:
+    - path: data/interim
+      hash: md5
+      md5: 856b5cca7daf833fe078eb3533091d6c.dir
+      size: 366101
+      nfiles: 1
+    - path: src\models\model_evalute.py
+      hash: md5
+      md5: 487caccdd3a70a6c779f3adccfe98867
+      size: 4418
+    outs:
+    - path: data/processed
+      hash: md5
+      md5: bd9e38d3644bb01a2da561f2cacec563.dir
+      size: 417289
+      nfiles: 4

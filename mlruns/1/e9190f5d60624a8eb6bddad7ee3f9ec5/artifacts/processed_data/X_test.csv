@@ -1,0 +1,1244 @@
+brand,model,model_year,milage,fuel_type,ext_col,int_col,accident,horse_power,displacement_L,cylinder,transmission_clean
+buick,Enclave Leather,2015,68653,gasoline,Blue,Black,Accident Reported,288.0,3.6,6.0,Automatic
+mitsubishi,Lancer Evolution,2006,128000,gasoline,Silver,Black,None reported,286.0,2.0,4.0,Manual
+lincoln,Corsair Grand,2021,1850,plug-in hybrid,Silver,Beige,None reported,266.0,2.5,4.0,CVT
+land,Rover Range,2021,22270,gasoline,Gray,Ebony,None reported,310.0,5.0,6.0,Automatic
+gmc,Yukon Xl,2022,48306,gasoline,Summit White,Jet Black,Accident Reported,310.0,6.2,6.0,Automatic
+toyota,Fj Cruiser,2007,162000,gasoline,Black,Black,None reported,239.0,4.0,6.0,Automatic
+jeep,Grand Cherokee,2022,10232,gasoline,Diamond Black,Global Black,None reported,310.0,3.6,6.0,Automatic
+mercedes-benz,Amg E,2020,8375,gasoline,BLACK,BLACK,None reported,310.0,3.0,6.0,Automatic
+jeep,Wrangler Unlimited,2018,58500,gasoline,Black,Black,None reported,285.0,3.6,6.0,Automatic
+ford,F-150 Xlt,2021,24207,gasoline,Black,–,None reported,310.0,2.7,6.0,Automatic
+hyundai,Genesis Coupe,2011,75000,gasoline,Red,Black,Accident Reported,306.0,3.8,6.0,unknown
+kia,Telluride Sx,2021,38612,gasoline,Ebony Black,Black,None reported,310.0,3.8,6.0,Automatic
+cadillac,Xt5 Luxury,2019,54323,gasoline,Red,Beige,None reported,310.0,3.6,6.0,Automatic
+gmc,Yukon Xl,2015,145000,gasoline,White,Beige,None reported,355.0,5.3,8.0,Automatic
+bmw,X1 Xdrive28I,2019,52253,gasoline,White,Black,None reported,228.0,2.0,4.0,unknown
+lexus,Rx 330,2006,110250,gasoline,White,Beige,None reported,230.0,3.3,6.0,Automatic
+hyundai,Ioniq 5,2022,18500,unknown,White,Black,None reported,320.0,3.5,6.0,Automatic
+nissan,Xterra S,2007,132272,gasoline,Gray,Gray,Accident Reported,261.0,4.0,6.0,Manual
+mitsubishi,Outlander Sport,2016,131193,gasoline,Black,Black,None reported,310.0,2.4,6.0,CVT
+jaguar,Xk Base,2007,56000,gasoline,White,Beige,None reported,300.0,4.2,8.0,Automatic
+gmc,Terrain Slt,2019,60807,gasoline,Red Quartz Tintcoat,Medium Ash Gray,Accident Reported,310.0,2.0,6.0,Automatic
+gmc,Yukon Denali,2019,36526,gasoline,Red,Black,None reported,420.0,6.2,8.0,Automatic
+toyota,Highlander Xle,2020,61341,gasoline,Midnight Black Metallic,Black,Accident Reported,310.0,3.5,6.0,Automatic
+gmc,Acadia Slt-1,2012,116226,gasoline,Black,Black,None reported,288.0,3.6,6.0,Automatic
+infiniti,Qx80 Base,2016,60000,gasoline,Silver,Beige,Accident Reported,400.0,5.6,8.0,Automatic
+chrysler,300 Base,2014,85000,gasoline,White,–,Accident Reported,292.0,3.6,6.0,Automatic
+ram,1500 Limited,2020,44362,gasoline,Bright White Clearcoat,Black,None reported,310.0,5.7,6.0,Automatic
+lincoln,Navigator Reserve,2016,125000,gasoline,Gray,Beige,None reported,380.0,3.5,6.0,unknown
+dodge,Charger Gt,2021,33000,gasoline,White,Gray,Accident Reported,300.0,3.6,6.0,unknown
+toyota,Bz4X Limited,2023,6548,unknown,Wind Chill Pearl,Black,None reported,310.0,3.5,6.0,Automatic
+lincoln,Mks Ecoboost,2016,38100,gasoline,Silver,Beige,None reported,365.0,3.5,6.0,Automatic
+bmw,135 I,2009,72900,gasoline,Gray,Gray,None reported,300.0,3.0,6.0,Automatic
+toyota,Rav4 Base,2009,78500,gasoline,Silver,–,None reported,179.0,2.5,4.0,Automatic
+gmc,Sierra 2500,2021,16919,diesel,Black,Black,Accident Reported,445.0,6.6,8.0,Automatic
+nissan,Xterra S,2008,227010,gasoline,Gray,Gray,None reported,261.0,4.0,6.0,Automatic
+jeep,Wagoneer Series,2022,29800,gasoline,–,–,None reported,310.0,5.7,6.0,Automatic
+subaru,Impreza Wrx,2014,55000,gasoline,White,Black,None reported,265.0,2.5,4.0,Manual
+chrysler,300 S,2014,121500,gasoline,Blue,Black,None reported,363.0,5.7,8.0,Automatic
+porsche,Panamera 2,2012,54000,gasoline,White,–,Accident Reported,300.0,3.6,6.0,Automatic
+ford,F-250 Xlt,2019,33000,diesel,Black,Gray,None reported,450.0,6.7,8.0,Automatic
+kia,Sportage Lx,2009,100730,gasoline,Gold,Gold,None reported,173.0,2.7,6.0,Automatic
+chevrolet,Silverado 2500,2008,128000,gasoline,Beige,Black,None reported,353.0,6.0,8.0,Automatic
+land,Rover Discovery,2022,23568,gasoline,Firenze Red,Ebony,None reported,310.0,2.0,6.0,Automatic
+mercedes-benz,Amg Gt,2016,9738,gasoline,Red,Black,None reported,503.0,4.0,8.0,Automatic
+acura,Rsx Base,2005,186040,gasoline,Gray,Beige,Accident Reported,160.0,2.0,4.0,Automatic
+mercedes-benz,Amg Gla,2018,51700,gasoline,White,Black,None reported,375.0,2.0,4.0,unknown
+bmw,750 I,2019,28744,gasoline,Black,Black,None reported,310.0,4.4,6.0,Automatic
+dodge,Charger R/T,2017,73350,gasoline,Gray,Red,None reported,485.0,6.4,8.0,Automatic
+gmc,Yukon Sle,2016,83858,gasoline,Blue,Gray,Accident Reported,355.0,5.3,8.0,Automatic
+audi,E-Tron Prestige,2019,7874,unknown,Typhoon Gray Metallic,Pearl Beige,None reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Gls 550,2018,74422,gasoline,Obsidian Black Metallic,Gray,None reported,310.0,4.7,6.0,Automatic
+hyundai,Palisade Sel,2020,69487,gasoline,White,Black,None reported,291.0,3.8,6.0,Automatic
+audi,A8 L,2019,23350,hybrid,Black,Brown,None reported,335.0,3.0,6.0,unknown
+ford,Expedition El,2011,156856,e85 flex fuel,Black,Brown,None reported,310.0,5.4,8.0,Automatic
+bmw,M3 Base,2023,4106,gasoline,Isle of Man Green Metallic,Kyalami Orange,None reported,310.0,3.0,6.0,Manual
+ford,Mustang Shelby,2010,29816,gasoline,Black,Black,None reported,540.0,5.4,8.0,Manual
+bmw,650 I,2015,76474,gasoline,White,Black,None reported,445.0,4.4,8.0,unknown
+kia,Forte Koup,2013,134207,gasoline,Black,–,Accident Reported,156.0,2.0,4.0,Automatic
+tesla,Model 3,2022,3077,unknown,Silver,Black,None reported,310.0,3.5,6.0,Automatic
+ford,Mustang Mach-E,2022,7661,unknown,Star White,Black Onyx,None reported,310.0,3.5,6.0,Automatic
+ford,Transit-350 Base,2015,112000,gasoline,White,Gray,Accident Reported,310.0,3.5,6.0,Automatic
+mercedes-benz,E-Class E,2008,67250,gasoline,White,Beige,None reported,268.0,3.5,6.0,Automatic
+pontiac,Solstice Gxp,2008,38100,gasoline,Orange,Black,None reported,260.0,2.0,4.0,Manual
+maserati,Quattroporte S,2018,57500,gasoline,White,Brown,None reported,424.0,3.0,6.0,Automatic
+tesla,Model 3,2018,26609,unknown,Gray,–,None reported,310.0,3.5,6.0,Automatic
+lincoln,Mkc Reserve,2019,35469,gasoline,Black,–,None reported,310.0,2.3,6.0,Automatic
+ford,Bronco Outer,2023,16500,gasoline,Blue,Gray,None reported,275.0,2.3,4.0,Automatic
+toyota,Tundra Sr5,2021,33455,gasoline,Green,Black,None reported,381.0,5.7,8.0,Automatic
+lexus,Lx 570,2016,118700,gasoline,Black,Beige,None reported,383.0,5.7,8.0,Automatic
+bmw,328 I,1997,206000,gasoline,Red,Black,Accident Reported,190.0,2.8,6.0,Manual
+mercedes-benz,Slk-Class Slk230,2003,33272,gasoline,Red,Gray,Accident Reported,192.0,2.3,4.0,Automatic
+infiniti,Q40 Base,2015,143250,gasoline,Silver,Black,None reported,328.0,3.7,6.0,unknown
+ford,F-350 Lariat,2005,176691,diesel,White,Beige,Accident Reported,325.0,6.0,8.0,Automatic
+jaguar,Xk8 Base,2000,40000,gasoline,Blue,Beige,None reported,290.0,4.0,8.0,Automatic
+cadillac,Ats 3.6L,2013,89700,gasoline,Black,Red,None reported,321.0,3.6,6.0,Automatic
+bmw,M4 Base,2020,29140,gasoline,Orange,Orange,None reported,425.0,3.0,6.0,Manual
+lexus,Sc 430,2002,89500,gasoline,Black,Black,None reported,300.0,4.3,8.0,Automatic
+audi,S7 2.9T,2021,12000,hybrid,Gray,Black,None reported,444.0,2.9,6.0,Automatic
+ram,2500 Tradesman,2018,63750,gasoline,Gray,Gray,None reported,410.0,6.4,8.0,Automatic
+land,Rover Lr4,2013,79800,gasoline,White,Black,None reported,375.0,5.0,8.0,Automatic
+gmc,Sierra 2500,2019,58000,e85 flex fuel,Silver,Beige,None reported,360.0,6.0,8.0,Automatic
+mercedes-benz,Amg Gle,2016,35943,gasoline,Black,White,None reported,577.0,5.5,8.0,Automatic
+bmw,750 I,2014,85095,gasoline,Black,Brown,Accident Reported,445.0,4.4,8.0,Automatic
+land,Rover Lr4,2012,141525,gasoline,Black,Black,None reported,375.0,5.0,8.0,Automatic
+audi,S5 3.0T,2014,151400,gasoline,Gray,Black,None reported,333.0,3.0,6.0,unknown
+ford,Focus Se,2017,91000,e85 flex fuel,Gray,Black,None reported,160.0,2.0,4.0,Automatic
+bmw,640 I,2016,40080,gasoline,Black,Black,None reported,315.0,3.0,6.0,Automatic
+cadillac,Escalade Esv,2009,152068,e85 flex fuel,White,Black,Accident Reported,403.0,6.2,8.0,Automatic
+subaru,Wrx Premium,2022,7738,gasoline,Orange,Black,Accident Reported,271.0,2.4,4.0,unknown
+mercedes-benz,Slk-Class Slk320,2001,59500,gasoline,Blue,Beige,None reported,215.0,3.2,6.0,Manual
+ford,Maverick Xl,2023,12500,hybrid,Silver,Black,None reported,191.0,2.5,4.0,Automatic
+ram,1500 Limited,2019,29000,gasoline,Gray,Black,Accident Reported,395.0,5.7,8.0,Automatic
+bmw,M760 I,2021,11078,gasoline,BLACK,WHITE,None reported,310.0,6.6,6.0,Manual
+honda,Odyssey Ex-L,2007,170000,gasoline,Black,Beige,None reported,244.0,3.5,6.0,Automatic
+subaru,Crosstrek 2.0I,2018,74600,gasoline,Blue,Black,None reported,152.0,2.0,4.0,unknown
+audi,Q7 3.0T,2015,98527,gasoline,Black,Black,None reported,280.0,3.0,6.0,Automatic
+ram,1500 Classic,2019,36757,e85 flex fuel,Diamond Black,Diesel Gray / Black,None reported,310.0,3.6,6.0,Automatic
+mercedes-benz,Amg C,2021,13650,gasoline,Blue,Black,None reported,503.0,4.0,8.0,Automatic
+kia,Sorento Plug-In,2022,10101,plug-in hybrid,White,–,None reported,261.0,1.6,4.0,Automatic
+jeep,Wrangler Unlimited,2020,24040,gasoline,Black Clearcoat,Black,None reported,310.0,2.0,6.0,Automatic
+dodge,Dakota Slt,2006,256000,gasoline,Black,Gray,None reported,310.0,4.7,8.0,Automatic
+tesla,Model X,2020,43534,unknown,Black,Black,None reported,534.0,3.5,6.0,Automatic
+ford,F-250 King,2021,93400,diesel,Red,Brown,None reported,475.0,6.7,8.0,Automatic
+jaguar,F-Type R,2018,35250,gasoline,Green,Black,None reported,550.0,5.0,8.0,Automatic
+mercedes-benz,S-Class S,2015,54000,gasoline,White,Beige,None reported,449.0,4.7,8.0,Automatic
+tesla,Model S,2015,62089,unknown,Black,Beige,None reported,329.0,3.5,6.0,Automatic
+ford,Bronco Big,2023,11500,gasoline,Gray,Black,None reported,315.0,2.7,6.0,Automatic
+hyundai,Sonata Sport,2017,84129,gasoline,Phantom Black,Graphite,None reported,310.0,2.4,6.0,Automatic
+mercedes-benz,E-Class E,2014,63000,gasoline,Silver,Black,None reported,402.0,4.7,8.0,Automatic
+land,Rover Range,2020,30424,hybrid,Silver,Black,None reported,310.0,2.0,6.0,Automatic
+ford,Mustang Gt,2010,87500,gasoline,Red,Black,Accident Reported,315.0,4.6,8.0,Automatic
+ford,F-250 Lariat,2019,85000,diesel,White,Black,Accident Reported,450.0,6.7,8.0,Automatic
+volkswagen,Golf Gti,2015,85385,gasoline,Gray,Black,None reported,210.0,2.0,4.0,Manual
+ford,F-250 Xlt,2010,52246,diesel,Tan,Medium Stone,None reported,310.0,6.4,6.0,Manual
+lexus,Is 250,2007,189887,gasoline,White,–,Accident Reported,204.0,2.5,6.0,Automatic
+land,Rover Range,2012,102800,gasoline,Gold,Brown,None reported,385.0,5.0,8.0,Automatic
+ram,1500 Laramie,2022,14636,gasoline,Diamond Black,Black,None reported,310.0,5.7,6.0,Automatic
+mercedes-benz,Amg Glc,2021,10483,gasoline,Graphite Grey Metallic,Black w/Red Stitching,None reported,310.0,3.0,6.0,Automatic
+jaguar,Xj6 Vanden,1995,70000,unknown,Gold,–,None reported,310.0,3.5,6.0,Automatic
+jeep,Wrangler Unlimited,2021,33704,hybrid,Bright White Clearcoat,Black,None reported,310.0,2.0,6.0,Automatic
+subaru,Outback 2.5,2009,181870,gasoline,Black,Black,None reported,169.0,2.5,4.0,Automatic
+bmw,X3 Xdrive30I,2020,23647,gasoline,Black Sapphire Metallic,Canberra Beige,None reported,310.0,2.0,6.0,Automatic
+bmw,Alpina B7,2013,36750,gasoline,Black,Black,None reported,445.0,4.4,8.0,Automatic
+chevrolet,Tahoe Premier,2021,41050,gasoline,Gray,Gray,None reported,355.0,5.3,8.0,Automatic
+bmw,328 I,2013,124000,gasoline,White,Beige,None reported,230.0,3.0,6.0,Automatic
+audi,Tt 2.0T,2012,64549,gasoline,Silver,Black,None reported,211.0,2.0,4.0,unknown
+audi,Q5 Premium,2023,2425,hybrid,Mythos Black,–,None reported,310.0,2.0,6.0,Automatic
+chevrolet,Traverse Premier,2018,68455,gasoline,Silver Ice Metallic,Jet Black,None reported,310.0,3.6,6.0,Automatic
+mercedes-benz,Amg Gle,2021,5595,hybrid,designo Diamond White Metallic,Black,None reported,310.0,3.0,6.0,Automatic
+mazda,Cx-9 Carbon,2021,27836,gasoline,Polymetal Gray Metallic,Red,None reported,310.0,2.5,6.0,Automatic
+ford,Utility Police,2013,105000,e85 flex fuel,White,Black,Accident Reported,300.0,3.7,6.0,Automatic
+nissan,Titan Sv,2023,6200,gasoline,Black,Gray,None reported,400.0,5.6,8.0,Automatic
+jeep,Grand Cherokee,2012,166000,e85 flex fuel,White,Gray,Accident Reported,290.0,3.6,6.0,Automatic
+mercedes-benz,Cla-Class Cla,2016,120000,gasoline,Black,Black,None reported,208.0,2.0,4.0,unknown
+ford,F-150 Xlt,2022,18465,gasoline,Black,Gray,None reported,400.0,3.5,6.0,Automatic
+bmw,X1 Xdrive28I,2020,27989,gasoline,Gray,Black,None reported,228.0,2.0,4.0,Automatic
+ford,F-150 Xlt,2022,33818,gasoline,Agate Black Metallic,Black,None reported,310.0,5.0,6.0,Automatic
+bmw,M4 Base,2020,31350,gasoline,Gray,Orange,None reported,425.0,3.0,6.0,unknown
+toyota,Highlander Xle,2021,67039,gasoline,Blue,Black,None reported,310.0,3.5,6.0,Automatic
+bmw,Z4 Sdrive28I,2014,15889,gasoline,Blue,Beige,None reported,240.0,2.0,4.0,Automatic
+infiniti,Qx80 Base,2015,136390,gasoline,Black Obsidian,Black,None reported,310.0,5.6,6.0,Automatic
+ford,Thunderbird Deluxe,2002,40110,gasoline,Yellow,Black,None reported,252.0,3.9,8.0,Automatic
+acura,Ilx Premium,2019,19500,gasoline,Gray,Black,None reported,201.0,2.4,4.0,Automatic
+chrysler,Town &,2012,74582,e85 flex fuel,Black,–,None reported,283.0,3.6,6.0,Automatic
+tesla,Model 3,2018,61700,unknown,White,Black,None reported,271.0,3.5,6.0,Automatic
+subaru,Legacy 2.5,2008,94000,gasoline,Gray,Blue,None reported,243.0,2.5,4.0,Manual
+ram,1500 Laramie,2021,24213,gasoline,White,Black,None reported,395.0,5.7,8.0,Automatic
+kia,Telluride Sx,2022,46347,gasoline,Glacial White Pearl,Black,None reported,310.0,3.8,6.0,Automatic
+cadillac,Cts Premium,2013,105000,gasoline,Black,Black,Accident Reported,318.0,3.6,6.0,Automatic
+porsche,Cayenne S,2014,36000,gasoline,Black,Beige,None reported,400.0,4.8,8.0,Automatic
+chrysler,300 Touring,2009,134602,gasoline,Blue,Black,None reported,250.0,3.5,6.0,unknown
+acura,Rsx Type,2006,71400,gasoline,Black,Gray,None reported,201.0,2.0,4.0,Manual
+bmw,650 Gran,2015,69000,gasoline,Gray,Black,None reported,445.0,4.4,8.0,Automatic
+ford,F-250 Lariat,2018,120000,diesel,Silver,Black,Accident Reported,450.0,6.7,8.0,Automatic
+lexus,Is-F Base,2010,41500,gasoline,Blue,Black,Accident Reported,416.0,5.0,8.0,Automatic
+bmw,X5 Xdrive40E,2016,91798,hybrid,Alpine White,Black,None reported,310.0,3.5,6.0,Automatic
+ford,Bronco Badlands,2022,17000,gasoline,White,Black,None reported,315.0,2.7,6.0,Automatic
+porsche,911 Carrera,2006,65000,gasoline,Blue,Gray,None reported,355.0,3.8,6.0,Manual
+chevrolet,Express 2500,2017,56000,gasoline,Blue,–,None reported,285.0,4.8,8.0,Automatic
+audi,S4 4.2,2004,74030,gasoline,Silver,Gray,None reported,340.0,4.2,8.0,Manual
+subaru,Impreza Wrx,2005,94000,gasoline,Black,Blue,None reported,300.0,2.5,4.0,Manual
+porsche,Macan S,2016,46200,gasoline,Gray,Gray,Accident Reported,340.0,3.0,6.0,unknown
+dodge,Challenger Srt,2016,37700,unknown,Black,Black,Accident Reported,310.0,3.5,6.0,Automatic
+land,Rover Range,2018,65680,gasoline,Silver,Black,Accident Reported,247.0,2.0,4.0,Automatic
+chevrolet,Corvette Base,2000,97500,gasoline,Yellow,Black,None reported,345.0,5.7,8.0,Manual
+chevrolet,Corvette Stingray,2018,13900,gasoline,White,Red,None reported,455.0,6.2,8.0,Automatic
+mercedes-benz,Amg Gt,2021,17994,gasoline,–,–,None reported,310.0,3.0,6.0,Automatic
+bmw,740 I,2016,57939,gasoline,Gray,Black,None reported,320.0,3.0,6.0,Automatic
+nissan,Titan Sl,2021,95993,gasoline,White,Black,None reported,310.0,5.6,6.0,Automatic
+audi,Q3 S,2022,17377,gasoline,Glacier White,Pearl Beige,None reported,310.0,2.0,6.0,Automatic
+acura,Tsx Base,2005,151600,gasoline,Black,Black,None reported,200.0,2.4,4.0,Manual
+bmw,X3 Sdrive30I,2021,12800,gasoline,Blue,Blue,None reported,248.0,2.0,4.0,Automatic
+lexus,Lx 570,2019,19050,gasoline,Black,Beige,None reported,383.0,5.7,8.0,Automatic
+jeep,Wrangler Sport,2017,38200,gasoline,Red,–,None reported,285.0,3.6,6.0,Automatic
+mazda,Mazda6 I,2016,83100,unknown,White,White,None reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Cla-Class Cla,2014,91140,gasoline,Gray,Black,None reported,208.0,2.0,4.0,Automatic
+volkswagen,Jetta 1.4T,2019,96000,gasoline,Orange,White,Accident Reported,147.0,1.4,4.0,Automatic
+mercedes-benz,E-Class E,2012,59600,gasoline,White,Beige,None reported,302.0,3.5,6.0,unknown
+chevrolet,Express 3500,2009,75000,gasoline,White,Gray,None reported,319.0,6.0,8.0,Automatic
+chevrolet,Malibu Limited,2016,104000,gasoline,Silver,Gray,None reported,310.0,2.5,4.0,Automatic
+porsche,911 Carrera,2007,50500,gasoline,Silver,Black,None reported,355.0,3.8,6.0,Manual
+subaru,Wrx Sti,2016,84100,gasoline,Gray,Black,None reported,305.0,2.5,4.0,Manual
+bmw,M4 Base,2015,26600,gasoline,White,–,None reported,425.0,3.0,6.0,Automatic
+jeep,Gladiator Sport,2022,23000,gasoline,Green,Black,None reported,285.0,3.6,6.0,Automatic
+lexus,Is 350,2021,26800,gasoline,Black,Red,None reported,311.0,3.5,6.0,Automatic
+tesla,Model Y,2022,9411,unknown,Silver,Black,None reported,310.0,3.5,6.0,Automatic
+hyundai,Sonata Se,2013,43903,gasoline,Red,Black,Accident Reported,200.0,2.4,4.0,Automatic
+porsche,Cayenne Turbo,2009,41965,gasoline,Black,Beige,Accident Reported,500.0,4.8,8.0,unknown
+nissan,Z Proto,2023,535,gasoline,Yellow,Black,None reported,400.0,3.0,6.0,Manual
+jeep,New Compass,2017,119000,gasoline,Red,Black,None reported,180.0,2.4,4.0,Automatic
+audi,A4 2.0T,2012,125000,gasoline,Black,Black,None reported,211.0,2.0,4.0,Automatic
+ford,Bronco Outer,2021,19590,gasoline,Blue,Gray,None reported,315.0,2.7,6.0,Automatic
+audi,Sq5 3.0T,2019,22300,gasoline,Blue,Gray,None reported,349.0,3.0,6.0,Automatic
+porsche,Panamera Turbo,2015,67210,gasoline,Blue,Beige,Accident Reported,520.0,4.8,8.0,unknown
+toyota,Land Cruiser,2008,175000,gasoline,Black,Beige,Accident Reported,381.0,5.7,8.0,Automatic
+tesla,Model X,2022,15000,unknown,White,White,None reported,1020.0,3.5,6.0,Automatic
+ford,Escape Phev,2022,1889,plug-in hybrid,White,Gray,None reported,221.0,2.5,4.0,CVT
+chevrolet,Silverado 1500,2022,30455,gasoline,Summit White,Jet Black,None reported,310.0,2.7,6.0,Automatic
+honda,Civic Sport,2020,22227,gasoline,Red,Black,None reported,310.0,2.0,6.0,CVT
+audi,S3 2.0T,2015,78124,gasoline,Blue,Black,None reported,292.0,2.0,4.0,Automatic
+land,Rover Defender,2023,8421,hybrid,Black,White,None reported,395.0,3.0,6.0,Automatic
+land,Rover Discovery,1998,149437,gasoline,Green,Beige,None reported,182.0,4.0,8.0,Automatic
+genesis,G70 3.3T,2022,12000,gasoline,Green,Beige,None reported,365.0,3.3,6.0,Automatic
+mercedes-benz,Amg Gle,2018,71500,gasoline,White,White,None reported,577.0,5.5,8.0,Automatic
+tesla,Model X,2017,70579,unknown,Black,White,None reported,518.0,3.5,6.0,Automatic
+honda,Pilot Ex-L,2020,44000,gasoline,White,Black,None reported,280.0,3.5,6.0,Automatic
+bmw,I3 94,2017,43000,unknown,Black,–,None reported,170.0,0.65,6.0,Automatic
+mercedes-benz,S-Class S,2018,72500,gasoline,Black,Black,None reported,362.0,3.0,6.0,Automatic
+acura,Tlx Type,2023,13600,gasoline,Blue,White,None reported,355.0,3.0,6.0,Automatic
+chevrolet,Silverado 2500,2022,18860,diesel,Blue,Gray,None reported,445.0,6.6,8.0,Automatic
+chevrolet,Camaro 2Lt,2011,126700,gasoline,White,Beige,Accident Reported,312.0,3.6,6.0,unknown
+chevrolet,Camaro 2Ss,2010,8949,gasoline,Yellow,Black,None reported,426.0,6.2,8.0,Manual
+porsche,Cayman Base,2014,79000,gasoline,Red,Black,Accident Reported,275.0,2.7,6.0,unknown
+porsche,Macan Gts,2023,6483,gasoline,Chalk,Black,None reported,310.0,2.9,6.0,Automatic
+porsche,Cayenne Base,2019,59338,gasoline,Black,Black,None reported,335.0,3.0,6.0,unknown
+lexus,Is 300,2018,50992,gasoline,White,Gray,Accident Reported,260.0,3.5,6.0,Automatic
+dodge,Challenger R/T,2019,75800,gasoline,Gray,Black,None reported,310.0,6.4,6.0,Automatic
+chevrolet,Silverado 1500,2012,104000,e85 flex fuel,Blue,Gray,Accident Reported,315.0,5.3,8.0,Automatic
+acura,Integra Ls,1998,120000,gasoline,Red,–,Accident Reported,140.0,1.8,4.0,Automatic
+bmw,335 I,2010,91545,gasoline,Black,Black,None reported,300.0,3.0,6.0,Automatic
+acura,Zdx Base,2012,106335,gasoline,White,Gray,None reported,300.0,3.7,6.0,Automatic
+chevrolet,Camaro 2Ss,2016,164000,gasoline,Black,Red,None reported,455.0,6.2,8.0,Automatic
+ford,F-150 Xl,2018,52500,e85 flex fuel,Gray,Gray,None reported,395.0,5.0,8.0,Automatic
+mercedes-benz,S-Class S,2018,45791,gasoline,Gray,Gray,None reported,463.0,4.0,8.0,Automatic
+audi,R8 5.2,2011,75000,gasoline,White,Brown,Accident Reported,525.0,5.2,10.0,unknown
+acura,Zdx Base,2010,123000,gasoline,Black,Black,Accident Reported,300.0,3.7,6.0,unknown
+porsche,Taycan,2022,2116,unknown,Black,Black,None reported,310.0,3.5,6.0,Automatic
+ford,Bronco Badlands,2021,32437,gasoline,Gray,Black,None reported,315.0,2.7,6.0,Automatic
+nissan,Maxima Sv,2022,36466,gasoline,Brilliant Silver Metallic,Charcoal,None reported,310.0,3.5,6.0,CVT
+mercedes-benz,Gl-Class Gl,2015,130000,gasoline,Blue,Black,None reported,429.0,4.7,8.0,Automatic
+toyota,Land Cruiser,2000,265000,gasoline,Black,Beige,None reported,230.0,4.7,8.0,Automatic
+volkswagen,Atlas 3.6L,2018,48210,gasoline,Silver,Black,None reported,276.0,3.6,6.0,unknown
+jeep,Wrangler Unlimited,2009,180036,gasoline,Black,Black,Accident Reported,202.0,3.8,6.0,Automatic
+gmc,Acadia Denali,2021,18083,gasoline,Ebony Twilight Metallic,Jet Black,None reported,310.0,3.6,6.0,Automatic
+nissan,Rogue Sl,2016,97726,gasoline,Gun Metallic,Charcoal,Accident Reported,310.0,2.5,6.0,CVT
+ford,F-150 Lariat,2022,28000,gasoline,Black,Black,None reported,400.0,3.5,6.0,Automatic
+audi,Rs 5,2013,75965,gasoline,White,Black,Accident Reported,450.0,4.2,8.0,Automatic
+porsche,911 Carrera,2003,90000,gasoline,Silver,Black,None reported,315.0,3.6,6.0,Manual
+nissan,Frontier Sv,2012,96600,gasoline,Beige,Black,Accident Reported,261.0,4.0,6.0,Automatic
+volvo,Xc90 3.2,2011,88300,gasoline,Blue,Beige,Accident Reported,235.0,3.2,6.0,Automatic
+chevrolet,Colorado Zr2,2018,76500,gasoline,White,Black,None reported,308.0,3.6,6.0,Automatic
+chevrolet,Malibu 1Lt,2009,139000,gasoline,White,Black,None reported,169.0,2.4,4.0,Automatic
+bmw,M5 Base,2013,61145,gasoline,White,Beige,Accident Reported,560.0,4.4,8.0,Automatic
+lexus,Es 300H,2018,100868,hybrid,White,Beige,Accident Reported,200.0,2.5,4.0,CVT
+mazda,Cx-9 Touring,2016,127131,gasoline,Brown,–,Accident Reported,227.0,2.5,4.0,Automatic
+porsche,Cayenne Base,2019,30951,gasoline,White,Black,None reported,310.0,3.0,6.0,Automatic
+toyota,Corolla S,2016,68364,gasoline,White,Black,None reported,132.0,1.8,4.0,unknown
+ford,Fusion Se,2018,75600,gasoline,Blue,Black,Accident Reported,181.0,1.5,4.0,Automatic
+volkswagen,Golf R,2022,1067,gasoline,White,Blue,None reported,315.0,2.0,4.0,Automatic
+porsche,Cayman Base,2014,52000,gasoline,Blue,Beige,Accident Reported,275.0,2.7,6.0,unknown
+lincoln,Aviator Reserve,2022,18196,gasoline,Black,Brown,None reported,400.0,3.0,6.0,unknown
+chevrolet,Camaro Base,2001,64776,gasoline,Black,Gray,None reported,200.0,3.8,6.0,Automatic
+bmw,335 I,2012,153600,gasoline,Black,Black,None reported,300.0,3.0,6.0,Manual
+ford,Transit Connect,2020,119000,gasoline,White,Black,None reported,169.0,2.5,4.0,Automatic
+jeep,Cherokee X,2022,9601,gasoline,Sting Gray Clearcoat,Black,None reported,310.0,3.2,6.0,Automatic
+mercedes-benz,Cls-Class Cls500,2006,28950,gasoline,Blue,Beige,None reported,302.0,5.0,8.0,Automatic
+porsche,Cayman R,2012,54000,gasoline,Black,Gray,None reported,330.0,3.4,6.0,Automatic
+lexus,Gx 460,2023,2533,gasoline,Black,Black,None reported,301.0,4.6,8.0,Automatic
+chevrolet,Suburban Premier,2017,133598,gasoline,Siren Red Tintcoat,Jet Black,Accident Reported,310.0,5.3,6.0,Automatic
+bmw,M5 Base,2006,106000,gasoline,Black,Black,None reported,500.0,5.0,10.0,unknown
+mercedes-benz,Sprinter 2500,2023,4000,diesel,White,Black,None reported,211.0,2.0,4.0,Automatic
+cadillac,Xt6 Sport,2020,24114,gasoline,Garnet Red Metallic,Jet Black,Accident Reported,310.0,3.6,6.0,Automatic
+jeep,Wrangler Se,2003,71000,gasoline,Red,Gray,None reported,150.0,2.4,4.0,Manual
+ram,1500 Sport,2012,113500,gasoline,Black,Black,None reported,390.0,5.7,8.0,Automatic
+land,Rover Discovery,2016,49083,gasoline,Indus Silver,Ebony,None reported,310.0,2.0,6.0,Automatic
+chevrolet,S-10 Ls,2001,139000,gasoline,Red,Gray,None reported,190.0,4.3,6.0,Automatic
+ford,Explorer Sport,2019,90067,gasoline,Black,Ebony Black,None reported,310.0,3.5,6.0,Automatic
+aston,Martin V8,2008,62378,gasoline,Red,Beige,Accident Reported,380.0,4.3,8.0,Manual
+mercedes-benz,S-Class S,2018,63160,gasoline,Black,–,Accident Reported,463.0,4.0,8.0,Automatic
+subaru,Brz Limited,2022,14000,gasoline,White,Black,None reported,228.0,2.4,4.0,Manual
+mercedes-benz,S-Class S,2015,40900,gasoline,White,–,None reported,577.0,5.5,8.0,Automatic
+subaru,Outback 2.5I,2015,162000,gasoline,Gray,Black,None reported,175.0,2.5,4.0,CVT
+acura,Nsx Base,1993,75980,unknown,Silver,Black,None reported,310.0,3.5,6.0,Automatic
+mazda,Mx-5 Miata,2017,52000,gasoline,Black,Black,Accident Reported,155.0,2.0,4.0,Manual
+chevrolet,Silverado 2500,2018,141195,e85 flex fuel,Summit White,Dark Ash,None reported,310.0,6.0,6.0,Automatic
+ford,Fusion Hybrid,2014,112180,hybrid,White,Charcoal Black,None reported,310.0,2.0,6.0,CVT
+chevrolet,Corvette Stingray,2023,4000,gasoline,Black,Red,Accident Reported,490.0,6.2,8.0,Automatic
+infiniti,Qx60 Base,2016,91239,gasoline,Gray,Black,None reported,265.0,3.5,6.0,Automatic
+land,Rover Defender,2022,46000,hybrid,Green,Beige,None reported,395.0,3.0,6.0,Automatic
+porsche,Panamera Gts,2016,42526,gasoline,Blue,Black,None reported,440.0,4.8,8.0,Automatic
+lexus,Sc 300,1998,165000,gasoline,Purple,Beige,None reported,225.0,3.0,6.0,Automatic
+mazda,Mazda6 Touring,2021,52253,gasoline,Snowflake White Pearl,Black,Accident Reported,310.0,2.5,6.0,Automatic
+chevrolet,Camaro 2Ss,2017,62000,gasoline,Blue,Black,None reported,455.0,6.2,8.0,unknown
+chevrolet,Camaro Lt1,2022,6700,gasoline,Gray,Black,None reported,455.0,6.2,8.0,Automatic
+gmc,Yukon Denali,2021,30022,gasoline,Blue,Black,Accident Reported,420.0,6.2,8.0,Automatic
+mazda,Rx-8 Grand,2008,81219,gasoline,Red,Black,None reported,232.0,1.3,6.0,Manual
+toyota,Avalon Touring,2016,89148,gasoline,Black,Black,None reported,268.0,3.5,6.0,Automatic
+mercedes-benz,C-Class C55,2006,98300,gasoline,Black,Black,Accident Reported,362.0,5.4,8.0,unknown
+nissan,Titan Xd,2020,10001,gasoline,Black,Black,None reported,310.0,5.6,6.0,Automatic
+bmw,I8 Base,2019,18421,plug-in hybrid,Black,Black,None reported,369.0,1.5,3.0,Automatic
+mercedes-benz,Sprinter 2500,2016,143290,diesel,White,Black,None reported,161.0,2.1,4.0,Automatic
+cadillac,Srx Luxury,2016,70503,gasoline,Silver,Beige,None reported,308.0,3.6,6.0,Automatic
+mercedes-benz,C-Class C,2015,73500,gasoline,White,Black,None reported,241.0,2.0,4.0,Automatic
+chevrolet,Monte Carlo,2005,75000,gasoline,Black,Black,None reported,240.0,3.8,6.0,Automatic
+bmw,M5 Base,2008,77750,gasoline,Silver,Silver,None reported,500.0,5.0,10.0,Automatic
+nissan,Xterra S,2008,100900,gasoline,Black,Gray,None reported,261.0,4.0,6.0,Automatic
+kia,Forte Gt-Line,2023,15500,gasoline,White,Black,Accident Reported,147.0,2.0,4.0,CVT
+bmw,X1 Xdrive28I,2021,25918,gasoline,Gray,Black,None reported,228.0,2.0,4.0,unknown
+bmw,430 I,2017,58880,gasoline,White,Brown,None reported,248.0,2.0,4.0,Automatic
+chevrolet,Blazer 1Lt,2019,37161,gasoline,Nightfall Gray Metallic,Jet Black,None reported,310.0,2.5,6.0,Automatic
+bmw,M3 Competition,2021,33500,gasoline,Gray,Black,None reported,503.0,3.0,6.0,Automatic
+ram,2500 Big,2016,95115,diesel,Bright White Clearcoat,Diesel Gray / Black,None reported,310.0,6.7,6.0,Automatic
+lexus,Ls 500,2018,67296,gasoline,–,–,None reported,310.0,3.5,6.0,Automatic
+kia,K900 5.0L,2017,36486,gasoline,Black,Beige,Accident Reported,420.0,5.0,8.0,Automatic
+lexus,Nx 200T,2015,124250,gasoline,Gray,Orange,Accident Reported,235.0,2.0,4.0,Automatic
+porsche,911 Carrera,2007,28844,gasoline,White,Beige,None reported,310.0,3.8,6.0,Manual
+ram,Promaster 2500,2019,31681,gasoline,White,Black,Accident Reported,280.0,3.6,6.0,Automatic
+toyota,4Runner 4Wd,1999,267000,gasoline,Silver,Beige,Accident Reported,150.0,2.7,4.0,Manual
+jaguar,Xf Luxury,2009,91491,gasoline,Blue,Beige,None reported,300.0,4.2,8.0,Automatic
+toyota,Highlander Se,2018,53607,gasoline,Midnight Black Metallic,Black,Accident Reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Amg Gle,2018,49000,gasoline,Blue,Brown,Accident Reported,385.0,3.0,6.0,Automatic
+chevrolet,Monte Carlo,2000,74000,gasoline,Red,–,None reported,200.0,3.8,6.0,Automatic
+lexus,Rx 450H,2022,15833,hybrid,White,Beige,None reported,308.0,3.5,6.0,CVT
+jeep,Wrangler Sahara,2012,78000,gasoline,Beige,Black,Accident Reported,285.0,3.6,6.0,Automatic
+porsche,718 Boxster,2019,6700,gasoline,Gray,Black,None reported,300.0,2.0,4.0,Automatic
+mitsubishi,Eclipse Spyder,2008,62930,gasoline,Gray,Black,Accident Reported,260.0,3.8,6.0,Automatic
+ford,F-150 Tremor,2023,5500,gasoline,Gray,Black,None reported,400.0,3.5,6.0,Automatic
+genesis,G90 5.0,2017,63500,gasoline,Silver,Black,None reported,420.0,5.0,8.0,unknown
+ford,Expedition El,2017,81000,gasoline,Black,Black,None reported,365.0,3.5,6.0,unknown
+mercedes-benz,Sprinter 3500,2017,124630,diesel,Black,Black,None reported,188.0,3.0,6.0,Automatic
+audi,Sq7 4.0T,2022,28927,gasoline,Matador Red Metallic,Black,None reported,310.0,4.0,6.0,Automatic
+bmw,M6 Base,2015,17900,gasoline,Black,Black,None reported,560.0,4.4,8.0,unknown
+cadillac,Cts Base,2005,94100,gasoline,White,Beige,None reported,255.0,3.6,6.0,Manual
+bmw,M550 I,2020,40000,gasoline,Blue,Black,None reported,523.0,4.4,8.0,unknown
+bmw,650 I,2012,39960,gasoline,White,Brown,None reported,400.0,4.4,8.0,Manual
+toyota,Tundra Sr5,2020,26300,gasoline,Gray,Gray,Accident Reported,381.0,5.7,8.0,Automatic
+chevrolet,Corvette Z06,2007,11025,gasoline,Orange,Black,None reported,505.0,7.0,8.0,Manual
+mercedes-benz,Amg E,2019,12985,gasoline,Gray,Black,Accident Reported,603.0,4.0,8.0,Automatic
+dodge,Challenger Sxt,2022,29500,gasoline,Gray,Black,None reported,303.0,3.6,6.0,Automatic
+jeep,Compass Limited,2022,20472,gasoline,Red,Black,None reported,310.0,2.4,6.0,Automatic
+bmw,328 I,2010,132000,gasoline,Silver,Black,Accident Reported,230.0,3.0,6.0,unknown
+porsche,911 Carrera,2009,25500,gasoline,Black,Black,None reported,385.0,3.8,6.0,Manual
+kia,K5 Gt-Line,2022,10971,gasoline,Passion Red,Black,None reported,310.0,1.6,6.0,Automatic
+ford,Mustang Shelby,2013,16478,gasoline,White,Black,None reported,650.0,5.8,8.0,Manual
+mazda,Cx-9 Grand,2010,155000,gasoline,Silver,Black,None reported,273.0,3.7,6.0,Automatic
+ram,1500 Laramie,2020,21165,gasoline,Bright White Clearcoat,Black,None reported,310.0,5.7,6.0,Automatic
+ram,1500 Tradesman/Express,2017,26269,e85 flex fuel,Bright White Clearcoat,Black,Accident Reported,310.0,3.6,6.0,Automatic
+bmw,M3 Base,2002,117200,gasoline,Black,Black,None reported,333.0,3.2,6.0,Automatic
+toyota,4Runner Limited,2018,95000,gasoline,Silver,Brown,None reported,270.0,4.0,6.0,Automatic
+mercedes-benz,Glk-Class Glk,2014,186000,gasoline,Black,Beige,Accident Reported,302.0,3.5,6.0,Automatic
+genesis,G90 3.3T,2021,9950,gasoline,Silver,Blue,None reported,365.0,3.3,6.0,Automatic
+alfa,Romeo Giulia,2020,30000,gasoline,Black,–,None reported,280.0,2.0,4.0,Automatic
+lexus,Rx 350,2016,81400,gasoline,Gray,Red,Accident Reported,295.0,3.5,6.0,Automatic
+infiniti,G35 Base,2006,94000,gasoline,White,Gray,Accident Reported,280.0,3.5,6.0,unknown
+bmw,528 I,2015,125500,gasoline,Black,Black,Accident Reported,240.0,2.0,4.0,Automatic
+nissan,Rogue Sl,2019,29558,gasoline,Magnetic Black,Charcoal,None reported,310.0,2.5,6.0,CVT
+kia,Telluride Ex,2023,10400,gasoline,Green,Green,None reported,291.0,3.8,6.0,Automatic
+gmc,Sierra 1500,2009,137000,gasoline,Red,–,None reported,295.0,4.8,8.0,Automatic
+bmw,X5 Xdrive35I,2014,143250,gasoline,Black,White,None reported,300.0,3.0,6.0,Automatic
+hummer,H3 Base,2007,137333,gasoline,Blue,Black,Accident Reported,242.0,3.7,5.0,Automatic
+ram,2500 Big,2020,51000,gasoline,Red,Black,None reported,410.0,6.4,8.0,Automatic
+ford,F-250 Xl,2020,36000,e85 flex fuel,White,Gray,None reported,385.0,6.2,8.0,Automatic
+lexus,Lc 500,2018,37000,gasoline,Black,Red,None reported,471.0,5.0,8.0,Automatic
+land,Rover Range,2016,79500,gasoline,White,Black,None reported,240.0,2.0,4.0,Automatic
+lexus,Rx 450H,2010,168422,hybrid,Black,Beige,Accident Reported,245.0,3.5,6.0,Automatic
+bmw,650 Gran,2015,41000,gasoline,Black,Black,None reported,445.0,4.4,8.0,Automatic
+ram,1500 Big,2021,70968,gasoline,Black,Black,None reported,395.0,5.7,8.0,Automatic
+infiniti,Qx56 Base,2011,130921,gasoline,White,Beige,None reported,400.0,5.6,8.0,unknown
+maserati,Granturismo Sport,2015,45000,gasoline,Black,Black,None reported,454.0,4.7,8.0,Automatic
+jeep,Wrangler Sport,1997,131000,gasoline,Green,Gray,Accident Reported,181.0,4.0,6.0,Manual
+cadillac,Xts Luxury,2016,112000,gasoline,Blue,Beige,Accident Reported,304.0,3.6,6.0,Automatic
+buick,Verano Convenience,2013,68325,e85 flex fuel,Silver,Gray,None reported,180.0,2.4,4.0,unknown
+bmw,325 I,2003,142000,gasoline,Silver,Black,Accident Reported,184.0,2.5,6.0,Manual
+audi,A7 3.0T,2017,39000,gasoline,Black,Black,Accident Reported,333.0,3.0,6.0,unknown
+mini,Convertible John,2017,24280,gasoline,Black,Black,Accident Reported,228.0,2.0,4.0,Automatic
+lexus,Gx 460,2020,37366,gasoline,White,–,None reported,310.0,4.6,6.0,Automatic
+subaru,Crosstrek Premium,2022,10000,gasoline,White,Black,None reported,152.0,2.0,4.0,CVT
+ford,Focus Rs,2016,49700,gasoline,Blue,Black,None reported,350.0,2.3,4.0,Manual
+jeep,Liberty Limited,2010,107000,gasoline,Gray,Gray,None reported,210.0,3.7,6.0,Automatic
+land,Rover Range,2019,49208,gasoline,Black,Black,None reported,380.0,3.0,6.0,unknown
+bmw,550 Gran,2013,79341,gasoline,Gold,Brown,None reported,445.0,4.4,8.0,Automatic
+bmw,I3 120Ah,2020,35035,hybrid,Black,Black,None reported,310.0,3.5,6.0,Automatic
+infiniti,Qx60 Luxe,2020,38400,gasoline,Blue,Beige,None reported,295.0,3.5,6.0,Automatic
+infiniti,G35 Sport,2007,37100,gasoline,Gray,Black,None reported,306.0,3.5,6.0,Manual
+mercedes-benz,E-Class E,2010,27000,gasoline,Black,Black,None reported,268.0,3.5,6.0,Automatic
+infiniti,G35 Base,2005,99000,gasoline,Silver,Black,None reported,298.0,3.5,6.0,Manual
+mercedes-benz,Amg C,2018,41500,gasoline,White,Brown,Accident Reported,362.0,3.0,6.0,Automatic
+cadillac,Ct5 Premium,2023,6090,gasoline,White,Beige,None reported,237.0,2.0,4.0,Automatic
+mini,Countryman Cooper,2016,95070,gasoline,Blue,Black,None reported,181.0,1.6,4.0,Automatic
+lexus,Is 250,2010,121250,gasoline,Black,White,Accident Reported,204.0,2.5,6.0,Automatic
+cadillac,Escalade Esv,2021,53169,gasoline,Black,Black,None reported,420.0,6.2,8.0,Automatic
+mercedes-benz,Gle 350,2022,18815,gasoline,Black,Black,None reported,310.0,2.0,6.0,Automatic
+mercedes-benz,Clk-Class Clk,2009,77925,gasoline,Silver,Black,None reported,268.0,3.5,6.0,unknown
+audi,Q7 45,2021,68000,gasoline,Blue,Black,None reported,248.0,2.0,4.0,Automatic
+nissan,Murano Sl,2021,43875,gasoline,Magnetic Black,Graphite,Accident Reported,310.0,3.5,6.0,CVT
+ford,Mustang Premium,2007,169613,gasoline,Black,Black,Accident Reported,210.0,4.0,6.0,Automatic
+kia,Sorento Lx,2019,86204,gasoline,Sparkling Silver,Satin Black,Accident Reported,310.0,3.3,6.0,Automatic
+saturn,Sky Base,2008,15020,gasoline,Silver,Red,None reported,173.0,2.4,4.0,Automatic
+tesla,Model X,2020,27224,unknown,Black,Black,None reported,310.0,3.5,6.0,Automatic
+honda,Civic Ex,2012,167506,gasoline,Black,–,None reported,140.0,1.8,4.0,Automatic
+mercedes-benz,S-Class S,2013,77648,gasoline,Silver,Black,None reported,536.0,5.5,8.0,Automatic
+cadillac,Srx Standard,2016,48000,gasoline,White,Black,Accident Reported,308.0,3.6,6.0,Automatic
+mazda,Cx-9 Touring,2023,1930,gasoline,Jet Black Mica,Black,Accident Reported,310.0,2.5,6.0,Automatic
+mercedes-benz,Amg Glc,2018,71962,gasoline,White,Black,None reported,469.0,4.0,8.0,Automatic
+scion,Tc Base,2013,177600,gasoline,Silver,Black,Accident Reported,180.0,2.5,4.0,Automatic
+nissan,Gt-R Premium,2010,46100,gasoline,Blue,Black,None reported,485.0,3.8,6.0,Automatic
+ram,2500 Slt,2015,149130,diesel,White,Black,Accident Reported,350.0,6.7,6.0,Automatic
+toyota,Tundra Sr5,2005,209500,gasoline,Blue,Gray,None reported,282.0,4.7,8.0,Automatic
+infiniti,Qx60 Base,2016,71000,gasoline,Black,Black,None reported,265.0,3.5,6.0,Automatic
+honda,Pilot Ex-L,2011,175000,gasoline,Black,Gray,None reported,250.0,3.5,6.0,Automatic
+tesla,Model Y,2022,24115,unknown,Gray,White,None reported,455.0,3.5,6.0,Automatic
+audi,A5 2.0T,2012,137273,gasoline,White,Beige,None reported,211.0,2.0,4.0,Automatic
+subaru,Impreza Premium,2022,10419,gasoline,Crystal White Pearl,Black,Accident Reported,310.0,2.0,6.0,CVT
+volkswagen,Routan Se,2011,194000,gasoline,Black,Gray,Accident Reported,283.0,3.6,6.0,unknown
+chevrolet,Impala 1Lt,2017,70000,gasoline,White,Gray,Accident Reported,305.0,3.6,6.0,Automatic
+tesla,Model S,2018,10065,unknown,Red Multi,White,None reported,310.0,3.5,6.0,Automatic
+bmw,428 Gran,2016,59000,gasoline,Black,Brown,Accident Reported,240.0,2.0,4.0,unknown
+mazda,Cx-5 Touring,2016,116500,gasoline,Blue Reflex Mica,Black,None reported,310.0,2.5,6.0,Automatic
+ford,Expedition Platinum,2019,51300,gasoline,White,Platinum,None reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Sl-Class Sl,2013,115000,gasoline,Black,Black,Accident Reported,429.0,4.6,8.0,unknown
+dodge,Sprinter 2500,2004,55000,diesel,White,Gray,None reported,154.0,2.7,5.0,Automatic
+nissan,Pathfinder Sv,2019,122009,gasoline,Gray,Black,None reported,310.0,3.5,6.0,Automatic
+lincoln,Mkz Reserve,2017,71964,gasoline,Blue,Black,None reported,240.0,2.0,4.0,Automatic
+ford,Ranger Edge,2004,110000,gasoline,White,Gray,Accident Reported,148.0,3.0,6.0,Automatic
+dodge,Ram 1500,2006,300183,gasoline,Silver,Gray,Accident Reported,345.0,5.7,8.0,Automatic
+audi,S5 3.0T,2018,44000,gasoline,Gray,Black,None reported,354.0,3.0,6.0,Automatic
+lincoln,Nautilus Reserve,2021,17467,gasoline,Pristine White,Slate,None reported,310.0,2.0,6.0,Automatic
+jeep,Wrangler Sahara,1998,136500,gasoline,Black,Black,None reported,181.0,4.0,6.0,Manual
+lincoln,Nautilus Reserve,2021,19291,gasoline,Black,Ebony,None reported,310.0,2.0,6.0,Automatic
+nissan,Nv200 S,2019,52000,gasoline,Black,Gray,Accident Reported,131.0,2.0,4.0,CVT
+bmw,528 I,2016,82000,gasoline,Silver,Black,Accident Reported,240.0,2.0,4.0,Automatic
+mercedes-benz,Sl-Class Sl500,2003,26190,gasoline,Gold,Beige,None reported,302.0,5.0,8.0,Automatic
+porsche,Macan S,2016,50000,gasoline,Blue,Red,None reported,340.0,3.0,6.0,Automatic
+genesis,Gv70 3.5T,2022,12900,gasoline,Gray,White,None reported,375.0,3.5,6.0,Automatic
+buick,Lacrosse Base,2017,67500,gasoline,Black,Beige,None reported,310.0,3.6,6.0,Automatic
+jeep,Wrangler Se,2000,95200,gasoline,Black,Black,None reported,120.0,2.5,4.0,Manual
+alfa,Romeo Stelvio,2018,37045,gasoline,White,Red,Accident Reported,280.0,2.0,4.0,unknown
+toyota,Avalon Limited,2008,111300,gasoline,Gold,Beige,None reported,268.0,3.5,6.0,unknown
+tesla,Model Y,2021,69548,unknown,Black,Black,Accident Reported,425.0,3.5,6.0,Automatic
+toyota,Tacoma Sr5,2018,25083,gasoline,Red,Gray,Accident Reported,310.0,3.5,6.0,Automatic
+lexus,Rx 450H,2022,1600,hybrid,White,Black,None reported,308.0,3.5,6.0,Automatic
+ram,1500 Laramie,2022,34121,gasoline,Granite Crystal Clearcoat Metallic,Black,None reported,310.0,5.7,6.0,Automatic
+ford,Mustang Gt,2001,52675,gasoline,Black,Black,None reported,260.0,4.6,8.0,Manual
+bmw,228 I,2015,54000,gasoline,Black,Red,Accident Reported,240.0,2.0,4.0,Manual
+lexus,Gx 470,2007,116600,gasoline,White,Gray,None reported,263.0,4.7,8.0,Automatic
+mercedes-benz,E-Class E,2008,91900,gasoline,Black,Black,None reported,268.0,3.5,6.0,Automatic
+cadillac,Escalade Esv,2016,168600,gasoline,White,Beige,None reported,420.0,6.2,8.0,Automatic
+tesla,Model Y,2022,500,unknown,White,Black,None reported,425.0,3.5,6.0,Automatic
+nissan,370Z Touring,2009,133409,gasoline,Silver,Gray,Accident Reported,332.0,3.7,6.0,Manual
+bmw,650 I,2009,35000,gasoline,Black,Black,None reported,360.0,4.8,8.0,Automatic
+bmw,740 Li,2012,85252,gasoline,Black,Black,None reported,326.0,3.0,6.0,Automatic
+land,Rover Discovery,2017,57918,gasoline,Gray,Gray,None reported,340.0,3.0,6.0,unknown
+kia,Sportage X-Pro,2023,459,gasoline,Jungle Green,Black,None reported,310.0,2.5,6.0,Automatic
+chevrolet,Suburban Premier,2017,166549,gasoline,White,Beige,Accident Reported,355.0,5.3,8.0,Automatic
+buick,Enclave Premium,2016,134655,gasoline,Ebony Twilight Metallic,Ebony,None reported,310.0,3.6,6.0,Automatic
+infiniti,Qx80 Sensory,2022,26520,gasoline,Blue,Brown,Accident Reported,400.0,5.6,8.0,Automatic
+tesla,Model S,2017,38957,unknown,Silver,Beige,None reported,310.0,3.5,6.0,Automatic
+hyundai,Genesis Coupe,2013,55000,gasoline,White,Red,None reported,260.0,2.0,4.0,Manual
+lexus,Rx 330,2004,151896,gasoline,Silver,Gray,None reported,230.0,3.3,6.0,Automatic
+jeep,Grand Cherokee,2022,13275,gasoline,Velvet Red Pearlcoat,Global Black,None reported,310.0,3.6,6.0,Automatic
+chevrolet,Suburban Premier,2019,105667,gasoline,Black,Beige,None reported,355.0,5.3,8.0,Automatic
+audi,S4 3.0T,2013,139355,gasoline,Black,Black,None reported,333.0,3.0,6.0,Automatic
+jeep,Wrangler Unlimited,2005,146000,gasoline,Red,Black,Accident Reported,190.0,4.0,6.0,Automatic
+volvo,Xc90 T6,2018,62000,gasoline,Silver,Black,None reported,316.0,2.0,4.0,Automatic
+toyota,4Runner Limited,2014,146700,gasoline,Blue,Black,Accident Reported,270.0,4.0,6.0,Automatic
+kia,Optima Hybrid,2013,104994,hybrid,Black,Beige,None reported,199.0,2.4,4.0,Automatic
+acura,Tlx V6,2019,25779,gasoline,Platinum White Pearl,Ebony,Accident Reported,310.0,3.5,6.0,Automatic
+toyota,4Runner Trail,2011,157000,gasoline,Black,Beige,None reported,270.0,4.0,6.0,unknown
+toyota,Highlander Xle,2022,4437,gasoline,Gray,Black,None reported,295.0,3.5,6.0,unknown
+chevrolet,Express 1500,2010,204000,e85 flex fuel,White,Gray,Accident Reported,310.0,5.3,8.0,Automatic
+ford,F-250 Xl,2016,75200,e85 flex fuel,White,Gray,None reported,385.0,6.2,8.0,Automatic
+ford,Explorer Xlt,2013,82900,gasoline,White,Gray,Accident Reported,290.0,3.5,6.0,Automatic
+cadillac,Srx Luxury,2012,87500,e85 flex fuel,White,Beige,None reported,308.0,3.6,6.0,Automatic
+lexus,Ct 200H,2016,39750,hybrid,Black,Black,None reported,134.0,1.8,4.0,Automatic
+cadillac,Ct6-V 4.2L,2019,8074,gasoline,Manhattan Noir Metallic,Jet Black,None reported,310.0,4.2,6.0,Automatic
+ford,Transit Connect,2022,22985,gasoline,White,Gray,None reported,169.0,2.5,4.0,Automatic
+maserati,Quattroporte Base,2006,61840,gasoline,Gray,Beige,None reported,394.0,4.2,8.0,unknown
+rivian,R1S Launch,2023,1885,unknown,Green,White,None reported,835.0,3.5,6.0,Automatic
+ram,3500 Slt,2017,157272,diesel,White,Gray,Accident Reported,350.0,6.7,6.0,Automatic
+lexus,Is 250,2010,132700,gasoline,Black,Black,Accident Reported,204.0,2.5,6.0,Automatic
+land,Rover Discovery,2019,20034,gasoline,Yulong White,Tan/Ebony,None reported,310.0,3.0,6.0,Automatic
+hyundai,Tucson Sel,2022,13666,gasoline,Portofino Gray,Black,None reported,310.0,2.5,6.0,Automatic
+ram,1500 Limited,2019,87768,hybrid,Silver,Black,None reported,395.0,5.7,8.0,Automatic
+tesla,Model S,2021,35315,unknown,White,Black,None reported,670.0,3.5,6.0,Automatic
+mercedes-benz,Amg E,2021,15615,hybrid,Gray,Black,None reported,429.0,3.0,6.0,Automatic
+gmc,Yukon Denali,2018,92800,gasoline,White,Black,None reported,420.0,6.2,8.0,Automatic
+chevrolet,Impala 1Lt,2019,99941,gasoline,Silver Ice Metallic,Jet Black,None reported,310.0,3.6,6.0,Automatic
+ford,F-150 Lariat,2021,36821,gasoline,Agate Black Metallic,Black,None reported,310.0,3.5,6.0,Automatic
+ram,1500 Limited,2021,22000,gasoline,Black,Black,None reported,395.0,5.7,8.0,Automatic
+porsche,Macan S,2020,29136,gasoline,White,Red,None reported,310.0,3.0,6.0,Automatic
+mitsubishi,Outlander Sel,2018,29000,gasoline,Red,Beige,None reported,166.0,2.4,4.0,Automatic
+bmw,M3 Base,2015,65800,gasoline,White,Red,None reported,425.0,3.0,6.0,unknown
+toyota,Highlander Limited,2022,24001,gasoline,Wind Chill Pearl,Graphite,None reported,310.0,3.5,6.0,Automatic
+dodge,Grand Caravan,2013,43000,e85 flex fuel,Red,Black,None reported,283.0,3.6,6.0,Automatic
+bmw,X3 M,2021,31500,gasoline,Black,Black,None reported,473.0,3.0,6.0,Automatic
+gmc,Canyon Elevation,2022,16500,gasoline,Gray,Gray,None reported,308.0,3.6,6.0,Automatic
+porsche,Panamera Edition,2016,60000,gasoline,Gray,Black,None reported,310.0,3.6,6.0,Automatic
+mercedes-benz,Sl-Class Sl600,2007,78200,gasoline,Black,Brown,Accident Reported,510.0,5.5,12.0,Automatic
+chevrolet,Malibu 1Lt,2017,54000,gasoline,Gray,Gray,Accident Reported,160.0,1.5,4.0,Automatic
+cadillac,Escalade Premium,2017,55000,gasoline,White,Beige,Accident Reported,420.0,6.2,8.0,Automatic
+lexus,Lc 500,2018,29800,gasoline,Black,Black,None reported,471.0,5.0,8.0,Automatic
+bmw,X5 Xdrive50I,2011,110000,gasoline,White,Blue,Accident Reported,400.0,4.4,8.0,unknown
+jeep,Wrangler S,1994,50750,unknown,Blue,Gray,None reported,310.0,3.5,6.0,Manual
+bentley,Continental Gtc,2008,7960,gasoline,White,White,None reported,552.0,6.0,12.0,Automatic
+hyundai,Elantra Gls,2010,107000,gasoline,Blue,Blue,Accident Reported,138.0,2.0,4.0,Automatic
+bmw,X6 Xdrive40I,2020,34000,gasoline,White,Brown,None reported,335.0,3.0,6.0,Automatic
+land,Rover Range,2008,114287,gasoline,Black,Black,None reported,400.0,4.2,8.0,Automatic
+chevrolet,Trailblazer Ss,2008,29586,gasoline,White,Black,None reported,390.0,6.0,8.0,Automatic
+mercedes-benz,Sl-Class Sl600,2005,93000,gasoline,Black,Black,None reported,493.0,5.5,12.0,Automatic
+lexus,Lx 470,1999,82000,gasoline,White,Beige,None reported,230.0,4.7,8.0,Automatic
+maserati,Coupe Cambiocorsa,2006,54082,gasoline,Blue,Beige,None reported,390.0,4.2,8.0,unknown
+mercedes-benz,Gle 350,2017,57000,gasoline,White,Black,Accident Reported,302.0,3.5,6.0,Automatic
+land,Rover Range,2018,36632,gasoline,Blue,Blue,None reported,518.0,5.0,8.0,Automatic
+kia,Sportage Nightfall,2022,9686,gasoline,Hyper Red,Black,None reported,310.0,2.4,6.0,Automatic
+land,Rover Range,2020,16000,hybrid,Silver,Black,None reported,395.0,3.0,6.0,Automatic
+ford,Excursion Limited,2004,76163,diesel,Gold,Gold,None reported,325.0,6.0,8.0,Automatic
+acura,Tlx Pmc,2020,6900,gasoline,Red,Black,None reported,290.0,3.5,6.0,Automatic
+bmw,M5 Base,2018,41000,gasoline,White,White,None reported,600.0,4.4,8.0,unknown
+land,Rover Lr4,2016,144000,gasoline,Black,Black,Accident Reported,340.0,3.0,6.0,Automatic
+mitsubishi,Lancer Gts,2009,185963,gasoline,Orange,Gray,Accident Reported,168.0,2.4,4.0,CVT
+chevrolet,Silverado 1500,2021,62257,gasoline,Satin Steel Metallic,Gideon,None reported,310.0,5.3,6.0,Automatic
+lincoln,Mkx Reserve,2016,88000,gasoline,Black,Black,None reported,335.0,2.7,6.0,unknown
+nissan,Armada Sl,2022,14735,gasoline,White,Black,None reported,310.0,5.6,6.0,Automatic
+gmc,Acadia Sle,2021,26000,gasoline,White,Black,None reported,228.0,2.0,4.0,Automatic
+toyota,Sequoia Limited,2006,190656,gasoline,Black,Gray,Accident Reported,273.0,4.7,8.0,Automatic
+toyota,Camry Se,2011,177702,gasoline,Gray,Gray,Accident Reported,179.0,2.5,4.0,Automatic
+bmw,M3 Base,2015,59000,gasoline,Gray,Black,None reported,425.0,3.0,6.0,Manual
+jeep,Wrangler Unlimited,2013,77634,gasoline,Gecko Pearlcoat,Black,None reported,310.0,3.6,6.0,Automatic
+chevrolet,Camaro 2Lt,2010,86170,gasoline,Black,Black,Accident Reported,304.0,3.6,6.0,Automatic
+ram,1500 Big,2022,11468,gasoline,Bright White Clearcoat,Black,None reported,310.0,5.7,6.0,Automatic
+lexus,Ls 460,2012,200000,gasoline,White,Beige,Accident Reported,380.0,4.6,8.0,unknown
+kia,Sorento Sxl,2019,43850,gasoline,Black,Black,Accident Reported,290.0,3.3,6.0,Automatic
+bmw,328 Xi,2007,83000,gasoline,Black,Brown,None reported,230.0,3.0,6.0,Automatic
+ford,F-250 Xlt,2019,92671,diesel,Black,Black,Accident Reported,450.0,6.7,8.0,Automatic
+ford,Mustang Gt,2016,40570,gasoline,Gray,Black,Accident Reported,435.0,5.0,8.0,Manual
+lexus,Ct 200H,2014,131200,hybrid,Brown,Brown,None reported,134.0,1.8,4.0,Automatic
+chevrolet,Silverado 1500,2006,215000,gasoline,Black,Black,Accident Reported,345.0,6.0,8.0,Automatic
+lincoln,Corsair Reserve,2021,29336,gasoline,Black,Sandstone,None reported,310.0,2.0,6.0,Automatic
+ford,F-250 Xlt,2017,244000,diesel,Red,Beige,None reported,440.0,6.7,8.0,Automatic
+ford,Edge Sport,2016,92000,gasoline,White,Black,None reported,315.0,2.7,6.0,Automatic
+chevrolet,Corvette Z06,2016,49000,gasoline,Orange,–,None reported,650.0,6.2,8.0,Manual
+tesla,Model 3,2019,32300,unknown,Black,Black,None reported,310.0,3.5,6.0,Automatic
+gmc,Sierra 1500,2006,167500,gasoline,Silver,Black,None reported,295.0,5.3,8.0,Automatic
+mercedes-benz,Cls 450,2019,67000,hybrid,Yellow,Black,None reported,369.0,3.0,6.0,unknown
+audi,Q7 Premium,2023,10601,hybrid,Mythos Black,Black,None reported,310.0,3.0,6.0,Automatic
+chevrolet,Corvette Stingray,2023,1100,gasoline,Gray,Beige,None reported,490.0,6.2,8.0,Automatic
+chevrolet,Camaro Z28,2002,48000,gasoline,White,Black,None reported,310.0,5.7,8.0,Automatic
+porsche,911 Carrera,2007,26021,gasoline,Silver,Gray,None reported,325.0,3.6,6.0,Manual
+mercedes-benz,S-Class S,2019,10500,gasoline,Silver,Brown,None reported,463.0,4.0,8.0,Automatic
+honda,Element Ex,2008,122000,gasoline,Blue,Gray,None reported,166.0,2.4,4.0,Automatic
+cadillac,Ats 2.0L,2016,83000,gasoline,Red,Beige,None reported,272.0,2.0,4.0,Automatic
+porsche,Boxster S,2005,95170,gasoline,Blue,Gray,None reported,280.0,3.2,6.0,Manual
+audi,Q5 S,2022,10071,hybrid,Mythos Black Metallic,Black,None reported,310.0,2.0,6.0,Automatic
+chevrolet,Ssr Base,2005,122961,gasoline,Redline Red,Ebony,None reported,310.0,6.0,6.0,Automatic
+bmw,M3 Base,2001,81000,gasoline,Blue,Gray,None reported,333.0,3.2,6.0,Manual
+chrysler,Crossfire Limited,2005,24847,gasoline,White,Dark Gray,None reported,310.0,3.2,6.0,Automatic
+ram,2500 Powerwagon,2013,84220,gasoline,White,Gray,Accident Reported,383.0,5.7,8.0,Automatic
+mini,Hardtop Cooper,2022,23777,gasoline,Gray,Black,None reported,189.0,2.0,4.0,Manual
+ford,Focus Se,2014,79615,gasoline,Black,Charcoal Black,None reported,310.0,2.0,6.0,Automatic
+hummer,H2 Sut,2006,89900,gasoline,Red,Beige,None reported,325.0,6.0,8.0,Automatic
+mazda,Protege Dx,1993,94200,unknown,Gray,–,Accident Reported,310.0,3.5,6.0,Automatic
+bmw,430 I,2021,9472,gasoline,White,Blue,None reported,255.0,2.0,4.0,Automatic
+chevrolet,Camaro 2Ss,2018,26000,gasoline,White,Black,None reported,455.0,6.2,8.0,Automatic
+gmc,Sierra 1500,2023,2500,gasoline,White,Brown,None reported,420.0,6.2,8.0,Automatic
+ford,Fusion Energi,2015,84352,plug-in hybrid,Blue,Black,Accident Reported,188.0,2.0,4.0,CVT
+honda,Crosstour Ex-L,2012,90742,gasoline,Gray,Gray,None reported,192.0,2.4,4.0,Automatic
+audi,S6 4.0T,2015,74000,gasoline,Blue,Gray,None reported,420.0,4.0,8.0,Automatic
+cadillac,Escalade Platinum,2018,49273,gasoline,Red,Black,None reported,420.0,6.2,8.0,Automatic
+toyota,Avalon Hybrid,2015,161000,hybrid,Blue,Gray,None reported,200.0,2.5,4.0,CVT
+jeep,Compass Sport,2016,99000,gasoline,White,Gray,Accident Reported,172.0,2.4,4.0,Automatic
+alfa,Romeo Giulia,2023,9275,gasoline,Alfa White,Black,None reported,310.0,2.0,6.0,Automatic
+buick,Enclave Avenir,2019,121521,gasoline,Dark Slate Metallic,Ebony / Ebony Accents,None reported,310.0,3.6,6.0,Automatic
+toyota,Fj Cruiser,2007,179000,gasoline,Silver,Black,Accident Reported,239.0,4.0,6.0,Automatic
+bmw,M550 I,2019,7580,gasoline,Black,Black,None reported,456.0,4.4,8.0,unknown
+mercedes-benz,Maybach S,2016,108500,gasoline,White,Beige,None reported,523.0,6.0,12.0,Automatic
+volkswagen,Jetta 1.4T,2017,61000,gasoline,White,Black,None reported,150.0,1.4,4.0,Automatic
+porsche,911 Carrera,2014,30000,gasoline,Black,Brown,None reported,400.0,3.8,6.0,Automatic
+volkswagen,Golf Gti,2016,87892,gasoline,Gray,Black,None reported,210.0,2.0,4.0,Manual
+infiniti,Qx80 Sensory,2023,8600,gasoline,Black,Brown,None reported,400.0,5.6,8.0,Automatic
+mercedes-benz,C-Class C,2022,8583,gasoline,Cirrus Silver Metallic,AMG Black,None reported,310.0,2.0,6.0,Automatic
+bmw,M3 Base,2003,127273,gasoline,Silver,Black,None reported,333.0,3.2,6.0,Manual
+toyota,Tundra Limited,2022,3959,gasoline,Blue,Gray,None reported,389.0,3.4,6.0,Automatic
+rivian,R1S Launch,2023,4500,unknown,Silver,Gray,None reported,835.0,3.5,6.0,Automatic
+lincoln,Navigator L,2008,95000,gasoline,Black,Black,None reported,300.0,5.4,8.0,Automatic
+volkswagen,Jetta 1.4T,2019,59000,gasoline,Gray,Black,None reported,147.0,1.4,4.0,Automatic
+audi,A6 2.0T,2016,68000,gasoline,White,Black,Accident Reported,252.0,2.0,4.0,unknown
+ford,Taurus Sho,2011,160000,gasoline,Black,Black,None reported,365.0,3.5,6.0,Automatic
+ram,1500 Laramie,2021,38012,gasoline,Delmonico Red Pearlcoat,Black,None reported,310.0,5.7,6.0,Automatic
+audi,A6 3.0,2014,42400,diesel,Silver,Black,None reported,240.0,3.0,6.0,Automatic
+chevrolet,Silverado 1500,2020,19200,gasoline,Gray,Black,None reported,355.0,5.3,8.0,Automatic
+bmw,X6 Xdrive50I,2019,45000,gasoline,Silver,Black,Accident Reported,445.0,4.4,8.0,Automatic
+lexus,Gs 350,2010,212000,gasoline,Gray,Black,Accident Reported,303.0,3.5,6.0,Automatic
+land,Rover Range,2007,220000,gasoline,White,Beige,None reported,300.0,4.4,8.0,Automatic
+toyota,Camry Solara,2008,73000,gasoline,Blue,Beige,Accident Reported,210.0,3.3,6.0,Automatic
+gmc,Yukon Denali,2019,88450,gasoline,Black,Beige,Accident Reported,420.0,6.2,8.0,Automatic
+chevrolet,Camaro 1Ss,2019,19200,gasoline,Orange,Black,None reported,455.0,6.2,8.0,Manual
+ram,1500 Laramie,2022,16744,gasoline,Delmonico Red Pearlcoat,Black,None reported,310.0,5.7,6.0,Automatic
+infiniti,Qx56 Base,2012,110000,gasoline,White,Beige,None reported,400.0,5.6,8.0,unknown
+bmw,M3 Base,2011,43000,gasoline,Black,Black,None reported,414.0,4.0,8.0,Manual
+bmw,X5 Sdrive35I,2017,39250,gasoline,Black,Beige,None reported,300.0,3.0,6.0,Automatic
+kia,Optima Ex,2019,68166,gasoline,Ebony Black,Black,None reported,310.0,1.6,6.0,Automatic
+audi,A7 3.0T,2018,29294,gasoline,White,Beige,None reported,340.0,3.0,6.0,Automatic
+audi,Rs 7,2016,31500,gasoline,Gray,Black,None reported,560.0,4.0,8.0,Automatic
+gmc,Terrain Sle,2020,26470,gasoline,Summit White,Jet Black,None reported,310.0,1.5,6.0,Automatic
+audi,Q5 S,2023,5682,hybrid,Chronos Gray,Gray,None reported,310.0,2.0,6.0,Automatic
+lexus,Rc F,2015,51400,gasoline,Silver,Gray,None reported,467.0,5.0,8.0,Automatic
+lexus,Ls 460,2013,99524,gasoline,Gray,Black,Accident Reported,386.0,4.6,8.0,Automatic
+land,Rover Range,2015,175000,gasoline,Black,Black,None reported,340.0,3.0,6.0,Automatic
+bmw,X4 M40I,2023,8500,hybrid,Gray,Beige,None reported,382.0,3.0,6.0,unknown
+bmw,M440 I,2021,13700,hybrid,Black,Beige,None reported,382.0,3.0,6.0,Automatic
+lexus,Rx 350,2020,53750,gasoline,Black,Red,None reported,295.0,3.5,6.0,Automatic
+infiniti,G37 S,2010,116451,gasoline,White,Gray,None reported,328.0,3.7,6.0,Manual
+ram,2500 Big,2019,97000,diesel,White,Gray,Accident Reported,370.0,6.7,6.0,Automatic
+land,Rover Range,2019,19813,gasoline,Silver,Beige,None reported,380.0,3.0,6.0,Automatic
+bmw,M4 Base,2020,28000,gasoline,White,White,None reported,425.0,3.0,6.0,Automatic
+chevrolet,Tahoe Ltz,2014,196300,e85 flex fuel,Black,Black,None reported,320.0,5.3,8.0,Automatic
+fiat,500E Battery,2017,33812,unknown,Silver,Black,None reported,111.0,3.5,6.0,Automatic
+cadillac,Dts Luxury,2008,94155,gasoline,White,Beige,None reported,275.0,4.6,8.0,Automatic
+ford,F-150 Xlt,2020,92000,gasoline,Gray,Black,None reported,375.0,3.5,6.0,Automatic
+bmw,650 I,2014,40000,gasoline,White,Beige,None reported,445.0,4.4,8.0,unknown
+bmw,435 Gran,2016,76009,gasoline,White,Beige,None reported,300.0,3.0,6.0,Automatic
+bmw,228 Gran,2020,31100,gasoline,Blue,White,None reported,228.0,2.0,4.0,Automatic
+bmw,128 I,2013,67874,gasoline,Gray,Black,None reported,230.0,3.0,6.0,Automatic
+bmw,335 I,2008,98000,gasoline,Black,Brown,None reported,300.0,3.0,6.0,unknown
+porsche,911 Carrera,2013,56985,gasoline,Blue,Gray,None reported,400.0,3.8,6.0,Automatic
+jeep,Gladiator Overland,2020,40000,gasoline,Gray,Black,None reported,285.0,3.6,6.0,unknown
+lexus,Lc 500,2018,61000,gasoline,Black,Black,None reported,471.0,5.0,8.0,unknown
+subaru,Ascent Touring,2021,39948,gasoline,Ice Silver Metallic,Black,None reported,310.0,2.4,6.0,CVT
+bmw,M4 Competition,2023,3950,gasoline,White,Blue,None reported,503.0,3.0,6.0,Automatic
+land,Rover Range,2015,110000,e85 flex fuel,Black,–,Accident Reported,510.0,5.0,8.0,Automatic
+volkswagen,Golf R,2013,102750,gasoline,Black,Black,None reported,256.0,2.0,4.0,Manual
+porsche,911 Carrera,2013,67522,gasoline,Gray,Black,Accident Reported,350.0,3.4,6.0,Automatic
+porsche,Macan S,2019,36700,gasoline,Blue,Blue,Accident Reported,348.0,3.0,6.0,Automatic
+volkswagen,Cc Sport,2012,131986,gasoline,White,Black,Accident Reported,200.0,2.0,4.0,Manual
+hummer,H2 Base,2004,130000,gasoline,Black,Black,Accident Reported,316.0,6.0,8.0,Automatic
+lexus,Nx 200T,2015,54000,gasoline,White,Black,None reported,235.0,2.0,4.0,Automatic
+tesla,Model 3,2021,21600,unknown,White,Black,None reported,271.0,3.5,6.0,Automatic
+lexus,Lx 570,2021,48300,gasoline,White,Red,None reported,383.0,5.7,8.0,Automatic
+kia,Optima Hybrid,2013,103111,hybrid,Silver,Beige,Accident Reported,199.0,2.4,4.0,Automatic
+bmw,X6 M,2017,25000,gasoline,White,Red,Accident Reported,567.0,4.4,8.0,unknown
+mercedes-benz,E-Class E,2014,55000,gasoline,Black,Black,None reported,302.0,3.5,6.0,Automatic
+bmw,M3 Base,1999,184700,gasoline,Blue,Gray,None reported,240.0,3.2,6.0,Manual
+bentley,Continental Gt,2007,72166,gasoline,Black,Black,Accident Reported,552.0,6.0,12.0,Automatic
+lincoln,Navigator Select,2016,158000,gasoline,Red,Beige,None reported,380.0,3.5,6.0,unknown
+mercedes-benz,Gle 350,2020,26293,gasoline,designo Diamond White Bright,Macchiato/Magmagrey,None reported,310.0,2.0,6.0,Automatic
+audi,E-Tron Premium,2021,18031,unknown,Navarra Blue Metallic,Black,None reported,310.0,3.5,6.0,Automatic
+cadillac,Escalade Esv,2021,36500,gasoline,White,Black,None reported,420.0,6.2,8.0,unknown
+audi,A5 Sportback,2021,35000,hybrid,Black,Black,None reported,261.0,2.0,4.0,Automatic
+ford,F-150 Lariat,2013,102000,gasoline,White,Black,None reported,365.0,3.5,6.0,Automatic
+chevrolet,Camaro 2Ss,2018,8660,gasoline,White,Black,None reported,455.0,6.2,8.0,Automatic
+hyundai,Genesis Coupe,2013,60000,gasoline,White,–,None reported,344.0,3.8,6.0,Automatic
+acura,Tlx,2023,3389,gasoline,Platinum White Pearl,Black,None reported,310.0,2.0,6.0,Automatic
+subaru,Brz Premium,2014,45000,gasoline,Blue,Black,Accident Reported,200.0,2.0,4.0,Manual
+chevrolet,Camaro 1Lt,2021,10300,gasoline,Black,Black,None reported,335.0,3.6,6.0,Manual
+infiniti,Qx80 Base,2018,100564,gasoline,Black,Graphite,None reported,310.0,5.6,6.0,Automatic
+mercedes-benz,Slc 300,2019,23900,gasoline,White,Black,None reported,241.0,2.0,4.0,Automatic
+cadillac,Escalade Esv,2021,8044,gasoline,Black,Beige,None reported,420.0,6.2,8.0,unknown
+gmc,Yukon Slt,2017,92031,gasoline,White,Beige,Accident Reported,355.0,5.3,8.0,Automatic
+bmw,X6 Sdrive35I,2016,70582,gasoline,Black,White,Accident Reported,300.0,3.0,6.0,Automatic
+toyota,4Runner Limited,2021,25882,gasoline,Midnight Black Metallic,–,None reported,270.0,4.0,6.0,Automatic
+chevrolet,Tahoe Premier,2019,48879,gasoline,Silver Ice Metallic,Jet Black,None reported,310.0,5.3,6.0,Automatic
+bmw,Z3 3.0I,2001,103990,gasoline,Black,Beige,None reported,225.0,3.0,6.0,Manual
+mercedes-benz,C-Class C,2016,67289,gasoline,White,Gray,None reported,241.0,2.0,4.0,Automatic
+mercedes-benz,S-Class S,2019,49500,gasoline,Black,Beige,None reported,463.0,4.0,8.0,Automatic
+lincoln,Mkc Base,2015,95000,gasoline,White,Black,Accident Reported,240.0,2.0,4.0,Automatic
+nissan,Frontier Sv,2012,65750,gasoline,Black,Gray,Accident Reported,261.0,4.0,6.0,Automatic
+maserati,Granturismo Base,2008,70000,gasoline,Blue,Brown,Accident Reported,405.0,4.2,8.0,Automatic
+audi,Tt 1.8T,2004,79500,gasoline,Silver,Black,None reported,180.0,1.8,4.0,Automatic
+nissan,Pickup Truck,1994,89144,unknown,Red,Gray,None reported,310.0,3.5,6.0,Automatic
+toyota,Tundra Hybrid,2023,10748,hybrid,Midnight Black Metallic,Black,None reported,310.0,3.4,6.0,Automatic
+audi,Q5 S,2022,10120,hybrid,Navarre Blue,Gray,None reported,310.0,2.0,6.0,Automatic
+toyota,Highlander Xle,2022,31000,gasoline,Gray,Gray,None reported,295.0,3.5,6.0,unknown
+porsche,Macan Base,2017,40600,gasoline,Gray,Black,None reported,252.0,2.0,4.0,Automatic
+acura,Tl Technology,2013,89190,gasoline,Gray,White,Accident Reported,305.0,3.7,6.0,Automatic
+porsche,Cayenne E-Hybrid,2017,69404,plug-in hybrid,Black,Beige,Accident Reported,416.0,3.0,6.0,Automatic
+land,Rover Range,2017,55000,gasoline,White,Beige,Accident Reported,380.0,3.0,6.0,Automatic
+dodge,Challenger R/T,2016,7928,unknown,Red,Red,None reported,310.0,3.5,6.0,Manual
+bmw,435 Gran,2015,60100,gasoline,Blue,Beige,None reported,300.0,3.0,6.0,Automatic
+pontiac,Firebird Base,1999,158000,gasoline,White,Black,Accident Reported,200.0,3.8,6.0,Automatic
+dodge,Charger Base,2006,145565,gasoline,Blue,Gray,Accident Reported,250.0,3.5,6.0,Automatic
+dodge,Durango Gt,2020,49000,gasoline,White,Black,None reported,295.0,3.6,6.0,Automatic
+ford,Utility Police,2013,51000,e85 flex fuel,Black,Black,Accident Reported,300.0,3.7,6.0,Automatic
+nissan,Rogue Sl,2017,148000,gasoline,White,–,None reported,170.0,2.5,4.0,Automatic
+jaguar,Xf 25T,2018,18800,gasoline,White,White,None reported,247.0,2.0,4.0,Automatic
+scion,Tc Anniversary,2014,99999,gasoline,White,Black,None reported,179.0,2.5,4.0,Manual
+chevrolet,Corvette Base,2008,28150,gasoline,Red,Beige,None reported,430.0,6.2,8.0,unknown
+jeep,Wrangler Unlimited,2020,61830,gasoline,Granite Crystal Clearcoat Metallic,Black,Accident Reported,310.0,2.0,6.0,Automatic
+acura,Ilx Premium,2019,37900,gasoline,White,Black,None reported,201.0,2.4,4.0,Automatic
+toyota,Camry Hybrid,2022,14048,hybrid,Black,Black,None reported,310.0,2.5,6.0,CVT
+kia,Sportage S,2021,16949,gasoline,Hyper Red,Black,None reported,310.0,2.4,6.0,Automatic
+mercedes-benz,Cla-Class Cla,2016,88600,gasoline,Black,Black,Accident Reported,208.0,2.0,4.0,Automatic
+bmw,X5 Xdrive35I,2017,105100,gasoline,Gray,Black,Accident Reported,300.0,3.0,6.0,Automatic
+mercedes-benz,E-Class E,2016,58375,gasoline,White,Beige,None reported,302.0,3.5,6.0,Automatic
+jeep,Wrangler Unlimited,2007,135465,gasoline,Black,Gray,None reported,205.0,3.8,6.0,Automatic
+audi,Q5 S,2023,6046,hybrid,Daytona Gray,Black,None reported,310.0,2.0,6.0,Automatic
+honda,Pilot Ex-L,2016,80500,gasoline,Gray,Black,None reported,280.0,3.5,6.0,Automatic
+chevrolet,Corvette Base,2004,43705,gasoline,Gray,Black,None reported,350.0,5.7,8.0,Manual
+audi,Sq5 3.0T,2016,60000,gasoline,Black,Black,Accident Reported,354.0,3.0,6.0,unknown
+porsche,Cayman S,2007,5856,gasoline,Black,Black,None reported,295.0,3.4,6.0,Manual
+mazda,Cx-5 Grand,2021,24781,gasoline,Machine Gray Metallic,Black,None reported,310.0,2.5,6.0,Automatic
+chevrolet,Corvette Z06,2018,24059,gasoline,Gray,Black,None reported,650.0,6.2,8.0,Automatic
+buick,Envision Preferred,2019,32000,gasoline,Black,Beige,None reported,197.0,2.5,4.0,Automatic
+jaguar,Xk Base,2013,55700,gasoline,Black,Black,None reported,385.0,5.0,8.0,Automatic
+chevrolet,Suburban Z71,2022,19200,gasoline,White,Black,None reported,420.0,6.2,8.0,Automatic
+bmw,M3 Base,2008,77800,gasoline,Red,Black,None reported,414.0,4.0,8.0,Manual
+bmw,M4 Base,2018,19600,gasoline,Black,Black,Accident Reported,425.0,3.0,6.0,Automatic
+mercedes-benz,A-Class A,2019,30300,gasoline,Silver,Black,None reported,188.0,2.0,4.0,Automatic
+kia,Ev6 Wind,2022,11945,unknown,Glacier,Black,None reported,310.0,3.5,6.0,Automatic
+porsche,Cayenne S,2012,126000,gasoline,Silver,Gray,None reported,400.0,4.8,8.0,unknown
+polestar,2 Launch,2021,12172,unknown,Thunder Gray,Charcoal,None reported,310.0,3.5,6.0,Automatic
+ram,Promaster 2500,2019,88000,gasoline,White,Black,Accident Reported,280.0,3.6,6.0,Automatic
+mercedes-benz,Gl-Class Gl,2013,63300,gasoline,Black,Black,None reported,362.0,4.6,8.0,Automatic
+mitsubishi,Lancer Evolution,2013,76500,gasoline,Black,Black,None reported,291.0,2.0,4.0,Manual
+bmw,X3 Xdrive30I,2020,43000,gasoline,Gray,Brown,Accident Reported,248.0,2.0,4.0,Automatic
+chevrolet,Tahoe Lt,2018,75000,gasoline,Silver,Black,None reported,355.0,5.3,8.0,Automatic
+chevrolet,Colorado Z71,2019,25462,gasoline,Shadow Gray Metallic,Jet Black,None reported,310.0,3.6,6.0,Automatic
+bmw,X6 Xdrive40I,2023,16307,hybrid,Red,White,None reported,335.0,3.0,6.0,Automatic
+land,Rover Range,2016,64000,gasoline,White,White,None reported,510.0,5.0,8.0,unknown
+chrysler,Pacifica Touring,2017,63000,unknown,White,Beige,None reported,310.0,3.5,6.0,Automatic
+ram,1500 Slt,2017,73690,gasoline,Blue,Gray,Accident Reported,395.0,5.7,8.0,Automatic
+rivian,R1S Adventure,2023,655,unknown,Red,Silver,None reported,835.0,3.5,6.0,Automatic
+ford,Transit Connect,2015,112000,gasoline,White,Black,Accident Reported,169.0,2.5,4.0,Automatic
+hyundai,Kona Ev,2019,33100,unknown,Black,Black,None reported,201.0,3.5,6.0,Automatic
+mercedes-benz,E-Class E,2014,43690,gasoline,Black,Black,None reported,402.0,4.7,8.0,Automatic
+lexus,Lx 570,2018,50000,gasoline,White,Black,None reported,383.0,5.7,8.0,Automatic
+mercury,Marauder Base,2004,56600,gasoline,Silver,Black,None reported,302.0,4.6,8.0,unknown
+hyundai,Tucson Limited,2008,149000,gasoline,Black,Gray,None reported,173.0,2.7,6.0,Automatic
+dodge,Challenger Gt,2021,40000,gasoline,Black,Black,None reported,303.0,3.6,6.0,Automatic
+volvo,Xc90 T6,2018,81200,gasoline,Black,Black,Accident Reported,316.0,2.0,4.0,Automatic
+toyota,Land Cruiser,2016,91000,gasoline,Black,Brown,None reported,381.0,5.7,8.0,Automatic
+lexus,Lc 500,2021,22400,gasoline,White,Red,None reported,471.0,5.0,8.0,Automatic
+land,Rover Range,2010,130000,gasoline,White,Black,None reported,510.0,5.0,8.0,Automatic
+bmw,330E Iperformance,2017,52500,plug-in hybrid,Blue,Black,Accident Reported,247.0,2.0,4.0,unknown
+infiniti,Qx60 Luxe,2019,51000,gasoline,Gray,–,Accident Reported,295.0,3.5,6.0,CVT
+mercedes-benz,Slk-Class Slk230,2001,58800,gasoline,Silver,Black,None reported,190.0,2.3,4.0,Automatic
+bmw,330E Iperformance,2018,45253,plug-in hybrid,Black,Black,None reported,247.0,2.0,4.0,unknown
+porsche,Panamera 2,2011,104000,gasoline,White,Black,None reported,300.0,3.6,6.0,Automatic
+nissan,Altima 2.5,2020,30900,gasoline,Silver,Gray,None reported,182.0,2.5,4.0,Automatic
+ford,Fiesta St,2019,28724,gasoline,Gray,Black,Accident Reported,197.0,1.6,4.0,Manual
+nissan,Altima 2.5,2003,189000,gasoline,Silver,Beige,Accident Reported,175.0,2.5,4.0,Automatic
+acura,Tlx W/A-Spec,2022,14896,gasoline,Lunar Silver Metallic,Ebony,None reported,310.0,2.0,6.0,unknown
+audi,Tt Rs,2012,54900,gasoline,White,Brown,None reported,360.0,2.5,5.0,Manual
+jaguar,F-Type R,2018,39900,gasoline,White,Black,None reported,550.0,5.0,8.0,Automatic
+pontiac,G6 Gtp,2006,100545,gasoline,Gray,Black,None reported,201.0,3.5,6.0,Automatic
+audi,Q5 40,2022,14550,hybrid,Silver,Brown,None reported,201.0,2.0,4.0,Automatic
+gmc,Savana 2500,2017,117000,e85 flex fuel,Silver,Silver,None reported,342.0,6.0,8.0,Automatic
+fiat,500 Sport,2015,47800,gasoline,Black,Black,Accident Reported,101.0,1.4,4.0,Automatic
+ford,Mustang Premium,2007,126000,gasoline,Red,Black,None reported,210.0,4.0,6.0,Automatic
+ford,Escape Se,2015,54357,gasoline,White,Gray,None reported,173.0,1.6,4.0,Automatic
+ram,Promaster 3500,2021,147834,gasoline,Bright White Clearcoat,Black,None reported,310.0,3.6,6.0,Automatic
+lexus,Gx 460,2020,48210,gasoline,Nebula Gray Pearl,Rioja Red,Accident Reported,310.0,4.6,6.0,Automatic
+toyota,Yaris L,2012,129355,gasoline,Black,Gray,Accident Reported,106.0,1.5,4.0,Automatic
+chevrolet,Suburban Lt,2018,75466,gasoline,Gray,Black,None reported,355.0,5.3,8.0,Automatic
+audi,Tt Roadster,2002,69300,gasoline,Gray,Black,Accident Reported,225.0,1.8,4.0,Manual
+tesla,Model Y,2020,27500,unknown,Gray,White,None reported,455.0,3.5,6.0,Automatic
+rolls-royce,Ghost Base,2010,79000,gasoline,Silver,Black,None reported,563.0,6.6,12.0,Automatic
+dodge,Challenger Srt8,2008,251634,gasoline,Silver,Black,None reported,425.0,6.1,8.0,Automatic
+chevrolet,1500 Cheyenne,1995,120000,unknown,White,Brown,Accident Reported,310.0,3.5,6.0,Automatic
+mazda,Mx-5 Miata,1992,125800,unknown,Red,Black,None reported,310.0,3.5,6.0,Manual
+ram,1500 Rebel,2020,57300,gasoline,Black,Black,None reported,395.0,5.7,8.0,Automatic
+land,Rover Range,2018,46000,gasoline,Red,Beige,None reported,380.0,3.0,6.0,Automatic
+chevrolet,Suburban Lt,2017,195361,gasoline,Black,Black,Accident Reported,355.0,5.3,8.0,unknown
+bmw,X3 Xdrive30I,2021,15000,gasoline,White,Brown,None reported,248.0,2.0,4.0,unknown
+porsche,Panamera Gts,2015,39500,gasoline,Black,Black,None reported,440.0,4.8,8.0,unknown
+lincoln,Navigator Reserve,2019,39000,gasoline,Black,Black,None reported,450.0,3.5,6.0,Automatic
+ford,Mustang Shelby,2012,6400,gasoline,Silver,Black,None reported,550.0,5.4,8.0,Manual
+mercedes-benz,C-Class C,2017,59400,gasoline,Black,Black,Accident Reported,241.0,2.0,4.0,Automatic
+acura,Tlx V6,2015,38000,gasoline,White,Black,None reported,290.0,3.5,6.0,Automatic
+bmw,528 I,2016,134000,gasoline,Brown,Brown,Accident Reported,240.0,2.0,4.0,Automatic
+ford,Transit-350 Xlt,2020,32000,diesel,Black,Black,None reported,210.0,2.0,4.0,Automatic
+maserati,Ghibli S,2016,1000,gasoline,Gray,Red,None reported,404.0,3.0,6.0,unknown
+bmw,430 Gran,2018,29025,gasoline,Carbon Black Metallic,Black,None reported,310.0,2.0,6.0,Automatic
+dodge,Challenger Srt,2020,12700,gasoline,Black,Black,Accident Reported,717.0,6.2,8.0,Automatic
+ford,Excursion Xls,2004,163000,diesel,Silver,Gray,Accident Reported,325.0,6.0,8.0,Automatic
+lincoln,Navigator L,2016,84272,gasoline,Black,Black,Accident Reported,380.0,3.5,6.0,Automatic
+honda,Civic Sport,2022,25420,gasoline,Red,Gray,None reported,158.0,2.0,4.0,CVT
+ford,Expedition Limited,2018,98995,gasoline,Ingot Silver Metallic,Ebony,None reported,310.0,3.5,6.0,Automatic
+chevrolet,Corvette Base,2010,23133,gasoline,White,Black,None reported,430.0,6.2,8.0,Manual
+mercedes-benz,R-Class R,2008,120000,gasoline,Silver,Black,None reported,268.0,3.5,6.0,Automatic
+bmw,330 I,2021,26000,gasoline,Black,Black,None reported,255.0,2.0,4.0,unknown
+hyundai,Accent Sel,2022,5100,gasoline,Blue,Black,None reported,120.0,1.6,4.0,Automatic
+mercedes-benz,C-Class C,2011,95500,gasoline,Black,Beige,Accident Reported,228.0,3.0,6.0,Automatic
+volkswagen,Jetta Glx,2002,121800,gasoline,Black,Black,None reported,174.0,2.8,6.0,Manual
+chrysler,200 C,2015,44000,e85 flex fuel,White,Black,Accident Reported,295.0,3.6,6.0,Automatic
+mercedes-benz,E-Class E,2014,88000,gasoline,Silver,Black,None reported,302.0,3.5,6.0,Automatic
+bmw,M4 Base,2016,62500,gasoline,Black,Orange,Accident Reported,425.0,3.0,6.0,Automatic
+honda,Cr-V Ex,2004,156350,gasoline,Brown,Beige,Accident Reported,160.0,2.4,4.0,Automatic
+audi,Tt 2.0T,2018,42650,gasoline,Gray,Black,None reported,220.0,2.0,4.0,unknown
+bmw,740 Il,2001,242000,gasoline,Green,Green,None reported,282.0,4.4,8.0,Automatic
+porsche,Macan Base,2022,13000,gasoline,Black,Beige,None reported,261.0,2.0,4.0,Automatic
+jeep,Wrangler Sport,2010,149460,gasoline,Black,Black,None reported,202.0,3.8,6.0,Automatic
+audi,A4 2.0T,2015,83420,e85 flex fuel,Red,Gray,Accident Reported,220.0,2.0,4.0,Automatic
+chevrolet,Camaro 2Ss,2018,75151,gasoline,Gray,Black,Accident Reported,455.0,6.2,8.0,Manual
+ram,1500 Classic,2019,12466,gasoline,Gray,Gray,None reported,395.0,5.7,8.0,Automatic
+mercedes-benz,E-Class E,2014,83112,gasoline,Black,Black,None reported,302.0,3.5,6.0,Automatic
+land,Rover Range,2019,59271,gasoline,Black,Black,None reported,380.0,3.0,6.0,Automatic
+mercedes-benz,Glc 300,2018,48700,gasoline,Blue,Brown,None reported,241.0,2.0,4.0,Automatic
+hyundai,Elantra Hev,2021,28600,hybrid,Gray,Black,None reported,139.0,1.6,4.0,Automatic
+bmw,530 I,2020,23195,gasoline,Dark Graphite Metallic,Black,None reported,310.0,2.0,6.0,Automatic
+porsche,911 Carrera,2014,78000,gasoline,Brown,Brown,None reported,350.0,3.4,6.0,unknown
+buick,Enclave Premium,2017,139105,gasoline,Iridium Metallic,Light Titanium,Accident Reported,310.0,3.6,6.0,Automatic
+jeep,Wrangler Sport,2001,171000,gasoline,White,Black,Accident Reported,181.0,4.0,6.0,Manual
+lexus,Es 350,2019,39000,gasoline,Black,Red,Accident Reported,302.0,3.5,6.0,unknown
+bmw,X5 M,2012,118000,gasoline,White,Orange,Accident Reported,555.0,4.4,8.0,unknown
+lexus,Es 300H,2013,87001,hybrid,Gold,Beige,None reported,200.0,2.5,4.0,CVT
+chevrolet,Silverado 1500,2021,51351,gasoline,Black,Jet Black,None reported,310.0,5.3,6.0,Automatic
+chevrolet,Camaro Base,2002,89000,gasoline,Silver,Black,None reported,200.0,3.8,6.0,Automatic
+bmw,640 Gran,2014,39886,gasoline,Black,Red,Accident Reported,315.0,3.0,6.0,unknown
+nissan,Altima 2.5,2015,149800,gasoline,Black,Black,Accident Reported,182.0,2.5,4.0,Automatic
+ford,F-150 Xlt,2018,67650,gasoline,Blue,Gray,None reported,375.0,3.5,6.0,Automatic
+mercedes-benz,Amg Cla,2021,17500,gasoline,Gray,Black,None reported,382.0,2.0,4.0,Automatic
+ford,Ranger Xlt,1999,115402,e85 flex fuel,Gold,Beige,None reported,152.0,3.0,6.0,Automatic
+chevrolet,Equinox Lt,2011,130000,gasoline,Brown,Black,Accident Reported,264.0,3.0,6.0,Automatic
+mercedes-benz,Clk-Class Clk,2008,73000,gasoline,Black,Black,None reported,268.0,3.5,6.0,Automatic
+audi,Rs 5,2022,9628,gasoline,White,Black,None reported,444.0,2.9,6.0,Automatic
+porsche,Panamera 4S,2010,62743,gasoline,Silver,Gray,None reported,400.0,4.8,8.0,unknown
+mercedes-benz,Sprinter 2500,2022,4590,gasoline,White,Black,None reported,188.0,2.0,4.0,Automatic
+mercedes-benz,Amg E,2022,13000,hybrid,Silver,Black,None reported,429.0,3.0,6.0,Automatic
+audi,Q5 2.0T,2012,119000,gasoline,Gray,–,None reported,211.0,2.0,4.0,Automatic
+toyota,Highlander Limited,2008,165520,gasoline,Gray,Gray,Accident Reported,270.0,3.5,6.0,Automatic
+bmw,X6 M,2021,18000,gasoline,Black,Black,None reported,600.0,4.4,8.0,Automatic
+dodge,Charger Gt,2018,62197,gasoline,White Knuckle Clearcoat,Black,None reported,310.0,3.6,6.0,Automatic
+mercedes-benz,Sl-Class Sl400,2015,36670,gasoline,White,Tan,None reported,310.0,3.0,6.0,Automatic
+audi,Q7 55,2019,41000,gasoline,White,Beige,None reported,329.0,3.0,6.0,Automatic
+ford,Expedition Limited,2013,163500,e85 flex fuel,Gray,Black,None reported,310.0,5.4,8.0,Automatic
+bmw,M4 Base,2019,57800,gasoline,Black,Red,None reported,425.0,3.0,6.0,unknown
+nissan,Pathfinder Silver,2012,206000,gasoline,Black,Black,None reported,266.0,4.0,6.0,unknown
+dodge,Challenger Srt8,2011,106500,unknown,White,White,Accident Reported,310.0,3.5,6.0,Automatic
+porsche,Cayenne Diesel,2015,97300,diesel,Black,Black,None reported,240.0,3.0,6.0,Automatic
+dodge,Challenger Srt,2015,1800,gasoline,Green,Black,None reported,707.0,6.2,8.0,Automatic
+dodge,Dakota Sport,2002,150000,gasoline,Black,Gray,Accident Reported,175.0,3.9,6.0,Manual
+kia,Sorento Sx,2011,171000,gasoline,Black,Black,None reported,276.0,3.5,6.0,Automatic
+cadillac,Deville Base,1994,85000,unknown,White,Blue,None reported,310.0,3.5,6.0,Automatic
+toyota,Mirai Limited,2021,44000,not supported,Gray,Black,None reported,182.0,3.5,6.0,Automatic
+chevrolet,Corvette Base,2004,40011,gasoline,Red,Black,None reported,350.0,5.7,8.0,Automatic
+ford,Expedition Max,2019,67500,gasoline,Gray,Black,None reported,375.0,3.5,6.0,Automatic
+jeep,Wrangler Unlimited,2019,59692,gasoline,Gray,Black,None reported,285.0,3.6,6.0,Automatic
+ford,Bronco Sport,2021,31654,gasoline,Rapid Red Metallic Tinted Clearcoat,Navy Pier,None reported,310.0,1.5,6.0,Automatic
+mazda,Cx-30 Base,2020,19319,gasoline,Snowflake White Pearl,Black,Accident Reported,310.0,2.5,6.0,Automatic
+hyundai,Santa Fe,2022,26895,gasoline,Quartz White,Black,None reported,310.0,2.5,6.0,Automatic
+ford,Maverick Xlt,2022,52000,hybrid,Blue,Gray,None reported,191.0,2.5,4.0,CVT
+ford,F-150 Lariat,2016,117000,gasoline,White,Black,None reported,365.0,3.5,6.0,Automatic
+aston,Martin V8,2010,25991,gasoline,Silver,Black,None reported,420.0,4.7,8.0,Automatic
+ford,Shelby Gt350,2019,2800,gasoline,Black,Black,None reported,526.0,5.2,8.0,Manual
+pontiac,Solstice Gxp,2007,47000,gasoline,Black,Black,None reported,260.0,2.0,4.0,Manual
+jeep,Gladiator Overland,2021,4100,gasoline,Black,Black,None reported,285.0,3.6,6.0,Automatic
+genesis,G70 3.3T,2019,48000,gasoline,Black,Black,None reported,365.0,3.3,6.0,Automatic
+kia,Niro Plug-In,2023,9400,plug-in hybrid,Black,Black,None reported,180.0,1.6,4.0,Automatic
+acura,Rl Technology,2010,97700,gasoline,Blue,Beige,None reported,300.0,3.7,6.0,unknown
+audi,S5 3.0T,2021,13566,gasoline,Daytona Gray Pearl Effect,Magma Red,None reported,310.0,3.0,6.0,Automatic
+lexus,Ls 430,2006,170000,gasoline,Silver,Gray,None reported,278.0,4.3,8.0,Automatic
+porsche,Panamera S,2012,49000,gasoline,White,Black,None reported,400.0,4.8,8.0,Automatic
+dodge,Charger R/T,2014,95000,gasoline,Black,Black,None reported,370.0,5.7,8.0,unknown
+chevrolet,Silverado 1500,2011,82963,hybrid,White,Black,None reported,332.0,6.0,8.0,Automatic
+acura,Mdx Technology,2022,15895,gasoline,Majestic Black Pearl,Parchment,None reported,310.0,3.5,6.0,Automatic
+maserati,Quattroporte Sport,2007,82000,gasoline,Black,Black,Accident Reported,394.0,4.2,8.0,unknown
+tesla,Model X,2023,197,unknown,Blue,Black,None reported,670.0,3.5,6.0,Automatic
+infiniti,Qx60 Base,2014,154247,gasoline,Black,Black,Accident Reported,265.0,3.5,6.0,Automatic
+mercedes-benz,E-Class E,2014,35000,gasoline,Red,Beige,None reported,302.0,3.5,6.0,Automatic
+mercedes-benz,Amg C,2017,34500,gasoline,Gray,Black,None reported,503.0,4.0,8.0,Automatic
+mitsubishi,Lancer Evolution,2012,33000,gasoline,Black,Black,None reported,291.0,2.0,4.0,Manual
+bmw,M5 Base,2018,31090,gasoline,Green,Black,Accident Reported,600.0,4.4,8.0,Automatic
+infiniti,Qx70 Base,2015,87009,gasoline,Gray,Black,None reported,325.0,3.7,6.0,Automatic
+bmw,740 I,2018,40989,gasoline,Black,Gold,None reported,320.0,3.0,6.0,Automatic
+volkswagen,Golf Gti,2018,63450,gasoline,White,Black,None reported,220.0,2.0,4.0,Manual
+audi,Q5 S,2022,8193,hybrid,Florett Silver,Black,None reported,310.0,2.0,6.0,Automatic
+mazda,Mazda3 I,2015,162000,gasoline,Red,Black,None reported,155.0,2.0,4.0,unknown
+hyundai,Genesis 3.8,2010,98700,gasoline,Beige,Beige,None reported,290.0,3.8,6.0,unknown
+maserati,Ghibli S,2020,12118,gasoline,Blue,Brown,None reported,424.0,3.0,6.0,Automatic
+mercedes-benz,Gl-Class Gl,2016,46102,gasoline,Black,Beige,None reported,429.0,4.7,8.0,Automatic
+mercedes-benz,Amg Gt,2018,28182,gasoline,White,Brown,Accident Reported,469.0,4.0,8.0,Automatic
+ford,Explorer Xlt,2020,61001,gasoline,Gray,Ebony,Accident Reported,310.0,2.3,6.0,Automatic
+infiniti,Q50 Premium,2014,127356,gasoline,Black,Black,Accident Reported,328.0,3.7,6.0,Automatic
+chevrolet,Suburban Z71,2022,36555,gasoline,Summit White,Jet Black,None reported,310.0,5.3,6.0,Automatic
+porsche,Boxster Base,1999,72000,gasoline,Blue,Gray,None reported,201.0,2.5,6.0,Manual
+land,Rover Range,2011,105000,gasoline,Black,Black,None reported,375.0,5.0,8.0,Automatic
+mercedes-benz,Gl-Class Gl,2011,112854,gasoline,White,Black,None reported,335.0,4.7,8.0,Automatic
+tesla,Model Y,2023,500,unknown,Black,White,None reported,455.0,3.5,6.0,Automatic
+ford,Expedition El,2017,104000,gasoline,Black,Black,Accident Reported,365.0,3.5,6.0,Automatic
+ford,Explorer Eddie,2010,144200,gasoline,Black,Beige,None reported,210.0,4.0,6.0,Automatic
+chevrolet,Tahoe Ltz,2007,177000,e85 flex fuel,Gold,Beige,Accident Reported,320.0,5.3,8.0,Automatic
+toyota,Land Cruiser,2000,209193,gasoline,Black,Beige,None reported,230.0,4.7,8.0,Automatic
+ford,Mustang Mach-E,2022,13856,unknown,White,Black,None reported,480.0,3.5,6.0,Automatic
+infiniti,Qx80 Luxe,2020,69000,gasoline,Gray,Black,None reported,400.0,5.6,8.0,Automatic
+volvo,Xc90 T6,2018,110380,gasoline,Gray,Beige,Accident Reported,316.0,2.0,4.0,Automatic
+land,Rover Range,2014,125000,e85 flex fuel,White,Brown,Accident Reported,510.0,5.0,8.0,Automatic
+subaru,Outback 3.0,2005,107000,gasoline,Gold,Beige,None reported,250.0,3.0,6.0,Automatic
+mercedes-benz,Cla-Class Cla,2014,83315,gasoline,White,White,None reported,208.0,2.0,4.0,Automatic
+subaru,Crosstrek 2.0I,2017,50011,gasoline,Red,Beige,Accident Reported,148.0,2.0,4.0,Automatic
+nissan,Armada Sl,2019,59980,gasoline,Silver,Black,None reported,390.0,5.6,8.0,Automatic
+bmw,750 I,2009,74600,gasoline,White,Brown,None reported,400.0,4.4,8.0,Automatic
+cadillac,Escalade Premium,2021,11459,gasoline,White,Brown,None reported,420.0,6.2,8.0,Automatic
+chevrolet,Suburban 1500,2004,171750,e85 flex fuel,White,Beige,Accident Reported,295.0,5.3,8.0,Automatic
+ford,Utility Police,2017,118000,gasoline,Black,Black,None reported,365.0,3.5,6.0,Automatic
+lincoln,Mkz Base,2016,68200,gasoline,Silver,Black,Accident Reported,300.0,3.7,6.0,Automatic
+audi,S7 4.0T,2017,52500,gasoline,Gray,Gray,None reported,450.0,4.0,8.0,unknown
+infiniti,Qx80 Base,2014,161894,gasoline,White,Beige,None reported,400.0,5.6,8.0,Automatic
+ford,Edge Sel,2019,26465,gasoline,White Platinum Tri-Coat Metallic,Ebony,None reported,310.0,2.0,6.0,Automatic
+lexus,Ct 200H,2012,109000,hybrid,White,Black,Accident Reported,134.0,1.8,4.0,Automatic
+bmw,440 Gran,2018,39300,gasoline,White,Beige,Accident Reported,320.0,3.0,6.0,Automatic
+maserati,Grecale Modena,2023,2200,hybrid,Black,Red,None reported,325.0,2.0,4.0,unknown
+volvo,Xc90 Hybrid,2020,44487,plug-in hybrid,Blue,Brown,None reported,400.0,2.0,4.0,Automatic
+porsche,Cayenne S,2015,52111,gasoline,Black,Black,Accident Reported,420.0,3.6,6.0,Automatic
+buick,Lacrosse Cx,2007,53000,gasoline,Red,Gray,None reported,200.0,3.8,6.0,Automatic
+lincoln,Navigator Base,2008,149000,gasoline,Gold,Beige,None reported,300.0,5.4,8.0,Automatic
+gmc,Yukon Slt,2014,142400,e85 flex fuel,Black,Black,Accident Reported,320.0,5.3,8.0,Automatic
+lincoln,Mark Lt,2006,87500,gasoline,Silver,Black,Accident Reported,300.0,5.4,8.0,Automatic
+mercedes-benz,Gl-Class Gl,2011,148000,gasoline,Black,Black,Accident Reported,335.0,4.7,8.0,Automatic
+audi,Rs 5,2019,21240,gasoline,Black,Black,Accident Reported,444.0,2.9,6.0,Automatic
+audi,A6 2.0T,2018,49650,gasoline,Black,Black,Accident Reported,252.0,2.0,4.0,Automatic
+jaguar,Xe 25T,2019,41452,gasoline,White,Black,Accident Reported,247.0,2.0,4.0,unknown
+porsche,911 Carrera,2005,28500,gasoline,Silver,Black,None reported,355.0,3.8,6.0,Manual
+mercedes-benz,Glc 300,2018,44486,gasoline,Gray,Black,None reported,310.0,2.0,6.0,Automatic
+maserati,Granturismo Base,2012,12100,gasoline,Blue,Beige,None reported,440.0,4.7,8.0,unknown
+mercedes-benz,S-Class S,2015,13300,gasoline,Black,Black,None reported,449.0,4.7,8.0,Automatic
+chevrolet,Camaro Zl1,2018,13500,gasoline,Black,Black,Accident Reported,650.0,6.2,8.0,Manual
+maserati,Quattroporte Base,2006,51000,gasoline,Blue,Beige,Accident Reported,394.0,4.2,8.0,unknown
+ram,1500 Big,2022,19376,gasoline,Bright White Clearcoat,Black,None reported,310.0,5.7,6.0,Automatic
+porsche,Macan,2023,2925,gasoline,Carrara White Metallic,Black,None reported,310.0,2.0,6.0,Automatic
+mercedes-benz,Cls-Class Cls,2016,62285,gasoline,Black,Black,Accident Reported,329.0,3.0,6.0,Automatic
+nissan,Nv Passenger,2017,46496,gasoline,Black,Gray,None reported,375.0,5.6,8.0,Automatic
+jeep,Gladiator Overland,2020,20655,gasoline,Firecracker Red Clearcoat,Black,None reported,310.0,3.6,6.0,Automatic
+buick,Encore Preferred,2019,50000,gasoline,White,Black,None reported,138.0,1.4,4.0,Automatic
+jeep,Grand Cherokee,2022,11164,gasoline,Black,Black,None reported,293.0,3.6,6.0,Automatic
+hummer,H2 Base,2005,145000,gasoline,Green,Black,None reported,325.0,6.0,8.0,Automatic
+toyota,Camry Hybrid,2011,133121,hybrid,White,White,Accident Reported,147.0,2.4,4.0,Automatic
+ram,2500 Laramie,2017,117878,diesel,Red,Black,None reported,350.0,6.7,6.0,unknown
+land,Rover Range,2016,99915,gasoline,Blue,White,Accident Reported,340.0,3.0,6.0,Automatic
+jeep,Grand Cherokee,2018,91677,gasoline,Granite Crystal Clearcoat Metallic,Black,None reported,310.0,3.6,6.0,Automatic
+nissan,Pathfinder Platinum,2014,112600,gasoline,Black,Black,Accident Reported,260.0,3.5,6.0,CVT
+volkswagen,Golf R,2016,47144,gasoline,Blue,Black,None reported,292.0,2.0,4.0,Manual
+hyundai,Equus Signature,2016,72000,gasoline,White,Beige,None reported,429.0,5.0,8.0,Automatic
+chevrolet,Bolt Euv,2022,31000,unknown,Red,White,None reported,200.0,3.5,6.0,Automatic
+toyota,Sequoia Limited,2017,67000,e85 flex fuel,Silver,Gray,None reported,381.0,5.7,8.0,Automatic
+infiniti,Qx60 Base,2017,93500,gasoline,Black,Black,None reported,295.0,3.5,6.0,Automatic
+chevrolet,Malibu Ltz,2010,55900,gasoline,Beige,Beige,None reported,252.0,3.6,6.0,unknown
+ram,1500 Laramie,2022,18645,gasoline,Diamond Black,Black,None reported,310.0,5.7,6.0,Automatic
+porsche,Cayman S,2014,33088,gasoline,Black,Black,None reported,325.0,3.4,6.0,Automatic
+chevrolet,Silverado 2500,2015,122770,e85 flex fuel,Brown,Black,None reported,360.0,6.0,8.0,Automatic
+maserati,Granturismo Base,2013,34920,gasoline,Gray,Brown,None reported,440.0,4.7,8.0,Automatic
+mercedes-benz,Sl-Class Sl,2013,24933,gasoline,Silver,Red,Accident Reported,429.0,4.6,8.0,unknown
+land,Rover Range,2011,174678,gasoline,Black,Black,None reported,230.0,3.2,6.0,Automatic
+chevrolet,Silverado 3500,2022,85200,diesel,Silver,Gray,None reported,445.0,6.6,8.0,Automatic
+infiniti,Qx60 Pure,2020,39000,gasoline,Gray,Gray,None reported,295.0,3.5,6.0,Automatic
+bmw,M3 Base,2002,204884,gasoline,Silver,Black,Accident Reported,333.0,3.2,6.0,Manual
+jeep,Grand Cherokee,2022,14627,gasoline,Diamond Black,Tupelo,None reported,310.0,3.6,6.0,Automatic
+porsche,Boxster Base,2010,64800,gasoline,Gray,Gray,Accident Reported,255.0,2.9,6.0,Manual
+cadillac,Dts Luxury,2007,130000,gasoline,Gold,Beige,Accident Reported,275.0,4.6,8.0,Automatic
+jaguar,Xj Vanden,2008,87888,gasoline,Black,Black,None reported,300.0,4.2,8.0,Automatic
+jeep,Compass Limited,2020,39192,gasoline,White Clearcoat,Black,None reported,310.0,2.4,6.0,Automatic
+audi,S5 3.0T,2014,67900,gasoline,Silver,Black,None reported,333.0,3.0,6.0,Manual
+gmc,Acadia Sle-2,2015,96000,gasoline,Blue,Beige,None reported,281.0,3.6,6.0,Automatic
+ford,F-250 Lariat,2017,72128,e85 flex fuel,White,Camel,None reported,310.0,6.2,6.0,Automatic
+mercedes-benz,Glc 300,2021,14745,gasoline,Graphite Grey,–,None reported,310.0,2.0,6.0,Automatic
+acura,Ilx Technology,2016,61000,gasoline,Black,Black,Accident Reported,201.0,2.4,4.0,Automatic
+dodge,Durango Srt,2020,36000,gasoline,Gray,Red,None reported,475.0,6.4,8.0,Automatic
+ford,F-150 Fx4,2014,85500,gasoline,Black,Black,None reported,411.0,6.2,8.0,unknown
+ford,Expedition Max,2020,52000,gasoline,Gray,Brown,Accident Reported,375.0,3.5,6.0,Automatic
+dodge,Charger R/T,2021,7751,gasoline,Black,Black,None reported,370.0,5.7,8.0,Automatic
+cadillac,Xlr Base,2009,69423,gasoline,Red,Beige,None reported,320.0,4.6,8.0,Automatic
+cadillac,Xlr V,2008,64800,gasoline,Black,Black,None reported,443.0,4.4,8.0,Automatic
+bmw,M235 I,2015,81000,gasoline,White,Red,None reported,320.0,3.0,6.0,Manual
+ram,1500 Big,2020,25396,gasoline,Maximum Steel Metallic,Black,None reported,310.0,5.7,6.0,Automatic
+bmw,M3 Base,2011,114890,gasoline,White,Beige,None reported,414.0,4.0,8.0,unknown
+porsche,Panamera Turbo,2015,47000,gasoline,Black,Brown,None reported,520.0,4.8,8.0,unknown
+bmw,335 I,2009,123000,gasoline,Purple,Black,None reported,300.0,3.0,6.0,Automatic
+nissan,Nv200 Sv,2017,16700,gasoline,White,Black,None reported,131.0,2.0,4.0,Automatic
+bmw,M4 Competition,2023,1120,gasoline,Gray,White,None reported,503.0,3.0,6.0,Automatic
+toyota,4Runner Sr5,2006,135000,gasoline,White,Gray,None reported,236.0,4.0,6.0,Automatic
+lexus,Lx 570,2021,25997,gasoline,Green,Brown,None reported,383.0,5.7,8.0,Automatic
+toyota,Highlander Xle,2018,74000,gasoline,White,Black,None reported,295.0,3.5,6.0,Automatic
+lexus,Es 330,2005,41059,gasoline,White,Beige,None reported,225.0,3.3,6.0,Automatic
+audi,A4 3.2,2009,153000,gasoline,Gray,Beige,None reported,265.0,3.2,6.0,Automatic
+honda,Cr-V Ex-L,2016,73549,gasoline,Mountain Air Metallic,Black,Accident Reported,310.0,2.4,6.0,CVT
+volvo,C40 Recharge,2023,17000,unknown,Gray,Blue,None reported,402.0,3.5,6.0,Automatic
+ram,3500 Laramie,2014,177000,diesel,Black,–,Accident Reported,385.0,6.7,6.0,Automatic
+ram,1500 Big,2014,124000,gasoline,Black,Black,None reported,395.0,5.7,8.0,Automatic
+nissan,Gt-R Premium,2009,88000,gasoline,White,White,Accident Reported,480.0,3.8,6.0,unknown
+land,Rover Range,2018,38020,gasoline,White,Espresso,None reported,310.0,5.0,6.0,Automatic
+bmw,330 I,2018,74381,gasoline,White,Brown,Accident Reported,248.0,2.0,4.0,Automatic
+chevrolet,Suburban Lt,2016,98000,e85 flex fuel,Gray,Gray,Accident Reported,355.0,5.3,8.0,unknown
+bmw,840 I,2024,1500,gasoline,Gray,Brown,None reported,335.0,3.0,6.0,Automatic
+kia,Seltos S,2023,5182,gasoline,White,Black,None reported,146.0,2.0,4.0,Automatic
+hyundai,Genesis 3.8,2015,116612,gasoline,White,White,Accident Reported,311.0,3.8,6.0,Automatic
+land,Rover Range,2016,79000,gasoline,Red,Red,None reported,240.0,2.0,4.0,Automatic
+toyota,4Runner Venture,2021,28567,gasoline,–,Black/Graphite,None reported,310.0,4.0,6.0,Automatic
+cadillac,Ats 2.5L,2013,225000,gasoline,Blue,Black,None reported,202.0,2.5,4.0,Automatic
+chevrolet,Sonic Lt,2013,110000,unknown,Gray,Black,None reported,310.0,3.5,6.0,Automatic
+mini,Hardtop Cooper,2017,44300,gasoline,Silver,Black,None reported,189.0,2.0,4.0,Manual
+porsche,911 Carrera,2001,21450,gasoline,Black,Black,None reported,300.0,3.4,6.0,Manual
+dodge,Durango Srt,2018,78000,gasoline,White,Black,Accident Reported,475.0,6.4,8.0,unknown
+hummer,H3 Base,2007,201000,gasoline,White,Black,Accident Reported,242.0,3.7,5.0,Automatic
+jeep,Grand Cherokee,2020,47500,gasoline,Purple,Black,None reported,293.0,3.6,6.0,Automatic
+ford,Mustang Ecoboost,2017,59500,gasoline,Black,Black,Accident Reported,310.0,2.3,4.0,Automatic
+infiniti,G37 X,2013,90000,gasoline,Silver,Black,None reported,328.0,3.7,6.0,unknown
+ford,Expedition Timberline,2022,30301,gasoline,Dark Matter Metallic,Deep Cypress,None reported,310.0,3.5,6.0,Automatic
+subaru,Wrx Base,2015,102000,gasoline,White,Black,Accident Reported,268.0,2.0,4.0,Manual
+volvo,S40 T5,2005,257700,gasoline,Red,Beige,None reported,218.0,2.5,5.0,Manual
+volkswagen,Jetta S,2010,99000,gasoline,Gray,Black,Accident Reported,170.0,2.5,5.0,Automatic
+mercedes-benz,M-Class Ml,2011,99200,gasoline,Black,Black,None reported,268.0,3.5,6.0,Automatic
+lincoln,Mkt Base,2016,140200,gasoline,Black,Black,None reported,303.0,3.7,6.0,Automatic
+lexus,Is 350,2014,123000,gasoline,Red,Black,Accident Reported,306.0,3.5,6.0,Automatic
+mercedes-benz,E-Class E,2015,30300,gasoline,White,Black,Accident Reported,329.0,3.0,6.0,Automatic
+ford,Fusion Hybrid,2011,223824,hybrid,White,Brown,Accident Reported,156.0,2.5,4.0,Automatic
+gmc,Sierra 3500,2002,300000,diesel,Black,Gray,Accident Reported,300.0,6.6,8.0,Automatic
+jaguar,F-Type R,2015,26000,gasoline,Blue,Red,None reported,550.0,5.0,8.0,Automatic
+acura,Mdx 3.5L,2019,90605,gasoline,White,Parchment,None reported,310.0,3.5,6.0,Automatic
+jeep,Grand Cherokee,2011,118000,gasoline,Gold,Black,Accident Reported,360.0,5.7,8.0,Automatic
+lexus,Ct 200H,2014,125519,hybrid,Black,Black,Accident Reported,134.0,1.8,4.0,CVT
+chevrolet,Silverado 1500,2023,5006,gasoline,Dark Ash Metallic,Black,None reported,310.0,5.3,6.0,Automatic
+mitsubishi,Mirage Es,2017,35698,gasoline,Blue,Black,None reported,78.0,1.2,3.0,Automatic
+mitsubishi,Eclipse Spyder,2007,136400,gasoline,Red,Gray,Accident Reported,260.0,3.8,6.0,Automatic
+lexus,Gx 460,2020,22466,gasoline,White,Black,None reported,301.0,4.6,8.0,Automatic
+cadillac,Ats 2.5L,2014,80400,gasoline,Silver,Black,Accident Reported,202.0,2.5,4.0,Automatic
+ford,Ranger Lariat,2019,45163,gasoline,Red,–,None reported,310.0,2.3,6.0,Automatic
+infiniti,Q70 3.7,2014,70312,gasoline,Black,Black,None reported,330.0,3.7,6.0,Automatic
+dodge,Viper Srt-10,2003,10800,gasoline,Silver,Black,None reported,500.0,8.3,10.0,Manual
+nissan,Xterra Pro-4X,2011,183000,gasoline,Black,Gray,Accident Reported,261.0,4.0,6.0,Automatic
+chevrolet,Corvette Base,2007,65000,gasoline,Silver,Beige,Accident Reported,400.0,6.0,8.0,Automatic
+mercedes-benz,C-Class C280,2007,49626,gasoline,White,–,None reported,228.0,3.0,6.0,Automatic
+lexus,Rx 350,2021,5040,gasoline,Beige,Beige,Accident Reported,295.0,3.5,6.0,Automatic
+honda,Civic Ex,2008,190640,gasoline,Silver,Silver,Accident Reported,140.0,1.8,4.0,Manual
+bentley,Continental Gt,2012,79089,e85 flex fuel,White,Beige,None reported,567.0,6.0,12.0,Automatic
+bmw,M3 Base,2016,56235,gasoline,Orange,Orange,None reported,425.0,3.0,6.0,Manual
+mini,Cooper S,2006,99600,gasoline,Orange,Black,None reported,168.0,1.6,4.0,Automatic
+gmc,Acadia Sle-2,2016,100795,gasoline,White Frost Tri-Coat,Ebony,Accident Reported,310.0,3.6,6.0,Automatic
+dodge,Avenger Se,2014,124705,e85 flex fuel,Black,Black,None reported,283.0,3.6,6.0,Automatic
+mercedes-benz,S-Class S,2019,77138,gasoline,designo Diamond White,Black,None reported,310.0,4.0,6.0,Automatic
+gmc,Yukon Xl,2023,7500,gasoline,Gray,Black,None reported,420.0,6.2,8.0,Automatic
+mercedes-benz,Sl-Class Sl63,2009,56000,gasoline,Black,Black,None reported,518.0,6.3,8.0,Automatic
+jeep,Grand Cherokee,2022,12050,gasoline,Bright White Clearcoat,Global Black,None reported,310.0,3.6,6.0,Automatic
+cadillac,Cts 3.6L,2014,69001,gasoline,Red,Black,None reported,321.0,3.6,6.0,Automatic
+porsche,Panamera Platinum,2022,13500,gasoline,Green,Black,None reported,325.0,2.9,6.0,Automatic
+hyundai,Tucson Limited,2016,138000,gasoline,Brown,Beige,None reported,175.0,1.6,4.0,Automatic
+mercedes-benz,Sl-Class Sl550,2008,150000,gasoline,Black,Beige,None reported,382.0,5.5,8.0,Automatic
+jeep,Wrangler Unlimited,2020,33060,gasoline,White,Black,None reported,285.0,3.6,6.0,Automatic
+tesla,Model 3,2021,23749,unknown,White,Black,None reported,310.0,3.5,6.0,Automatic
+porsche,Panamera Base,2018,42500,gasoline,Black,Beige,Accident Reported,330.0,3.0,6.0,Automatic
+bmw,M6 Gran,2019,20500,gasoline,Blue,Black,None reported,560.0,4.4,8.0,unknown
+porsche,Cayman Base,2011,66000,gasoline,Black,Brown,None reported,265.0,2.9,6.0,Automatic
+ram,1500 Slt,2018,61802,e85 flex fuel,Black,Gray,None reported,305.0,3.6,6.0,Automatic
+porsche,911 Carrera,2006,80000,gasoline,Black,Beige,None reported,355.0,3.8,6.0,Manual
+volkswagen,Passat 2.0T,2020,49400,gasoline,Black,Brown,None reported,174.0,2.0,4.0,Automatic
+subaru,Ascent Touring,2021,32250,gasoline,Black,Black,Accident Reported,260.0,2.4,4.0,Automatic
+volkswagen,Routan Se,2012,123815,gasoline,Black,Gray,None reported,283.0,3.6,6.0,Automatic
+subaru,Impreza 2.0I,2013,112000,gasoline,Black,Beige,None reported,148.0,2.0,4.0,CVT
+toyota,C-Hr Le,2021,13180,gasoline,–,–,None reported,310.0,2.0,6.0,CVT
+ford,F-150 Platinum,2018,60660,gasoline,Gold,Black,Accident Reported,375.0,3.5,6.0,Automatic
+ford,F-250 Xlt,2019,124000,e85 flex fuel,White,Gray,None reported,385.0,6.2,8.0,Automatic
+audi,S5 3.0T,2013,37500,gasoline,Black,Black,None reported,333.0,3.0,6.0,Automatic
+porsche,911 Carrera,2010,13850,gasoline,Black,Black,None reported,385.0,3.8,6.0,Manual
+mercedes-benz,Gls 450,2017,46100,gasoline,Black,Beige,Accident Reported,362.0,3.0,6.0,Automatic
+dodge,Challenger R/T,2020,54000,gasoline,Gray,Black,None reported,372.0,5.7,8.0,Automatic
+jeep,Wrangler Unlimited,2014,132600,gasoline,White,–,Accident Reported,285.0,3.6,6.0,Automatic
+honda,Insight Ex,2020,64200,hybrid,White,Black,Accident Reported,151.0,1.5,4.0,CVT
+chevrolet,Corvette Base,1998,134000,gasoline,Red,Beige,None reported,340.0,5.7,8.0,Automatic
+hummer,H3 Base,2007,101750,gasoline,White,Black,None reported,242.0,3.7,5.0,Automatic
+lexus,Lc 500,2022,6875,gasoline,White,Black,None reported,471.0,5.0,8.0,Automatic
+jeep,Grand Cherokee,2021,26088,gasoline,Silver Zynith,Global Black,None reported,310.0,3.6,6.0,Automatic
+hummer,H2 Base,2003,149961,gasoline,Beige,Beige,Accident Reported,316.0,6.0,8.0,Automatic
+gmc,Sierra 1500,2021,12941,gasoline,White,Black,Accident Reported,355.0,5.3,8.0,Automatic
+cadillac,Cts Luxury,2012,113000,gasoline,White,Beige,None reported,270.0,3.0,6.0,Automatic
+bmw,X5 3.0I,2004,140000,gasoline,Black,Beige,None reported,225.0,3.0,6.0,unknown
+chevrolet,Suburban 1500,2015,159000,gasoline,White,Beige,Accident Reported,355.0,5.3,8.0,Automatic
+cadillac,Escalade Esv,2013,119000,e85 flex fuel,Black,Black,None reported,403.0,6.2,8.0,Automatic
+porsche,Boxster Black,2016,24881,gasoline,Black,Black,Accident Reported,265.0,2.7,6.0,unknown
+toyota,Sequoia Platinum,2023,325,hybrid,Blue,Gray,None reported,437.0,3.4,6.0,Automatic
+ford,Transit-350 Base,2015,150000,gasoline,Black,Gray,Accident Reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Glb 250,2023,1219,gasoline,Midnight Black,Classic Red,None reported,310.0,2.0,6.0,Automatic
+cadillac,Xts Luxury,2018,46711,gasoline,Silver,Black,Accident Reported,304.0,3.6,6.0,Automatic
+audi,Q4 E-Tron,2022,250,unknown,Gray,Black,None reported,295.0,3.5,6.0,Automatic
+lexus,Lx 570,2021,14206,gasoline,Black,Black,None reported,383.0,5.7,8.0,Automatic
+ford,Explorer Xlt,2017,169000,e85 flex fuel,White,Beige,None reported,290.0,3.5,6.0,Automatic
+land,Rover Range,2023,12425,gasoline,Firenze Red,Ebony,None reported,310.0,3.5,6.0,Automatic
+rivian,R1S Adventure,2023,2108,unknown,Silver,White,None reported,835.0,3.5,6.0,Automatic
+volvo,Xc60 T5,2019,43500,gasoline,Gray,Black,None reported,250.0,2.0,4.0,unknown
+ford,Explorer Xlt,2022,18533,gasoline,White,Ebony,None reported,310.0,2.3,6.0,Automatic
+audi,S4 3.0T,2013,91877,gasoline,Black,Red,Accident Reported,333.0,3.0,6.0,Automatic
+mercedes-benz,Sl-Class Sl500,2004,35400,gasoline,Black,Gray,None reported,302.0,5.0,8.0,Automatic
+tesla,Model X,2023,8200,unknown,Black,Black,None reported,670.0,3.5,6.0,Automatic
+toyota,Camry Xse,2022,19361,gasoline,Red,Black,None reported,310.0,3.5,6.0,Automatic
+nissan,350Z Touring,2006,84200,gasoline,Silver,Gray,None reported,300.0,3.5,6.0,Manual
+alfa,Romeo Stelvio,2020,41000,gasoline,White,Black,None reported,280.0,2.0,4.0,Automatic
+toyota,Tundra Sr5,2022,29322,gasoline,Gray,Black,None reported,310.0,3.4,6.0,Automatic
+alfa,Romeo Giulia,2022,1966,gasoline,Verde,Black,None reported,310.0,2.9,6.0,Automatic
+honda,Fit Sport,2007,156111,gasoline,Red,Black,Accident Reported,109.0,1.5,4.0,unknown
+chevrolet,Silverado 1500,2019,53433,gasoline,Blue,Gray,None reported,355.0,5.3,8.0,Automatic
+volvo,S60 R,2004,167000,gasoline,Black,Beige,None reported,300.0,2.5,5.0,Manual
+volvo,Xc60 Recharge,2022,19352,plug-in hybrid,Blue,Beige,None reported,455.0,2.0,4.0,Automatic
+nissan,Gt-R Premium,2010,15600,gasoline,White,Black,None reported,485.0,3.8,6.0,unknown
+audi,S4 3.0T,2018,26500,gasoline,Gray,Black,Accident Reported,354.0,3.0,6.0,Automatic
+acura,Mdx Sport,2007,183455,gasoline,White,Beige,Accident Reported,300.0,3.7,6.0,Automatic
+toyota,Sequoia Limited,2005,86000,gasoline,Silver,–,None reported,282.0,4.7,8.0,Automatic
+mercedes-benz,Metris Base,2019,10500,gasoline,Black,Brown,None reported,208.0,2.0,4.0,Automatic
+land,Rover Range,2015,64300,e85 flex fuel,Blue,Black,None reported,550.0,5.0,8.0,unknown
+acura,Tlx A-Spec,2021,16878,gasoline,Red,Ebony,None reported,310.0,2.0,6.0,Automatic
+toyota,Highlander Xle,2019,81301,gasoline,Black,Black,None reported,310.0,3.5,6.0,Automatic
+hyundai,Palisade Limited,2020,45815,gasoline,Silver,Black,None reported,291.0,3.8,6.0,unknown
+toyota,Tacoma Sr,2022,5020,gasoline,Black,Gray,None reported,278.0,3.5,6.0,Automatic
+lexus,Ls 460,2008,100868,gasoline,Black,Beige,None reported,380.0,4.6,8.0,Automatic
+bmw,X3 M40I,2019,36438,gasoline,Alpine White,Oyster W/Contrast,None reported,310.0,3.0,6.0,Automatic
+mercedes-benz,Gle 450,2022,24906,hybrid,Selenite Grey Metallic,Black,None reported,310.0,3.0,6.0,Automatic
+lexus,Rx 350,2016,71750,gasoline,Black,Brown,None reported,295.0,3.5,6.0,Automatic
+toyota,Tundra Sr,2018,51000,gasoline,Black,Gray,None reported,381.0,5.7,8.0,Automatic
+tesla,Model 3,2022,22457,unknown,Midnight Silver Metallic,Black,None reported,310.0,3.5,6.0,Automatic
+chevrolet,Suburban Rst,2021,52000,gasoline,Blue,Black,None reported,355.0,5.3,8.0,Automatic
+ford,F-150 Xlt,2020,53401,gasoline,Gray,Black,None reported,375.0,3.5,6.0,Automatic
+mercedes-benz,E-Class E,2022,14100,gasoline,Gray,Black,None reported,255.0,2.0,4.0,Automatic
+lexus,Es 250,2021,17570,gasoline,Emin White,Black,None reported,310.0,2.5,6.0,Automatic
+mercedes-benz,Sl-Class Sl,2014,127500,gasoline,White,White,None reported,429.0,4.7,8.0,unknown
+dodge,Ram 1500,2004,141209,gasoline,Black,Black,None reported,345.0,5.7,8.0,Automatic
+chrysler,300C Base,2007,86000,gasoline,Gray,Black,None reported,340.0,5.7,8.0,Automatic
+chevrolet,Bolt Euv,2022,14676,unknown,Black,Blue,None reported,200.0,3.5,6.0,Automatic
+bmw,M5 Competition,2020,35400,gasoline,Orange,Black,None reported,617.0,4.4,8.0,Automatic
+mercedes-benz,Slc 300,2018,33000,gasoline,Red,Black,Accident Reported,241.0,2.0,4.0,Automatic
+lexus,Gx 470,2004,154000,gasoline,White,Beige,Accident Reported,235.0,4.7,8.0,Automatic
+chevrolet,Camaro 1Ss,2017,50850,gasoline,Blue,Black,None reported,455.0,6.2,8.0,Manual
+bentley,Continental Gtc,2013,79422,gasoline,Black,Black,None reported,616.0,6.0,12.0,Automatic
+toyota,Sienna Xle,2007,112630,gasoline,Silver,Gray,Accident Reported,266.0,3.5,6.0,Automatic
+toyota,4Runner Limited,2019,48842,gasoline,White,–,Accident Reported,310.0,4.0,6.0,Automatic
+audi,S4 3.0T,2019,12000,gasoline,Black,Black,None reported,349.0,3.0,6.0,Automatic
+mercedes-benz,C-Class C,2018,41515,gasoline,Black,Black,None reported,310.0,2.0,6.0,Automatic
+acura,Mdx 3.7L,2013,20750,gasoline,Black,Black,None reported,300.0,3.7,6.0,Automatic
+ford,F-350 Lariat,2015,162000,diesel,Red,Beige,None reported,440.0,6.7,8.0,unknown
+hyundai,Genesis 3.8,2015,61300,gasoline,Silver,Gray,None reported,311.0,3.8,6.0,Automatic
+audi,A5 45,2022,24500,hybrid,White,Black,None reported,261.0,2.0,4.0,unknown
+tesla,Model X,2016,52000,unknown,Black,Beige,None reported,518.0,3.5,6.0,Automatic
+toyota,Tundra Trd,2016,51400,e85 flex fuel,Black,Black,None reported,381.0,5.7,8.0,Automatic
+ford,Explorer Xlt,2020,45000,gasoline,Silver,Black,None reported,300.0,2.3,4.0,Automatic
+audi,Q7 3.0T,2018,63400,gasoline,Black,Black,None reported,333.0,3.0,6.0,Automatic
+volkswagen,Beetle 2.0T,2019,32000,gasoline,Gray,Black,None reported,174.0,2.0,4.0,unknown
+hyundai,Genesis Coupe,2013,89000,gasoline,White,Black,Accident Reported,344.0,3.8,6.0,Manual
+lexus,Is 350,2017,77300,gasoline,White,Black,None reported,306.0,3.5,6.0,Automatic
+audi,S5 3.0T,2021,18100,gasoline,Gray,Gray,None reported,349.0,3.0,6.0,Automatic
+tesla,Model S,2018,65000,unknown,Blue,Black,None reported,518.0,3.5,6.0,Automatic
+land,Rover Range,2019,52300,gasoline,Black,Black,None reported,340.0,3.0,6.0,unknown
+toyota,Camry Hybrid,2022,20400,hybrid,White,Gray,None reported,208.0,2.5,4.0,CVT
+audi,Q8 3.0T,2019,51984,hybrid,White,–,None reported,335.0,3.0,6.0,Automatic
+bmw,M5 Base,2015,33000,gasoline,Gray,Black,None reported,560.0,4.4,8.0,Automatic
+toyota,Tundra Sr,2018,74000,e85 flex fuel,Beige,Black,Accident Reported,381.0,5.7,8.0,Automatic
+porsche,Cayenne S,2016,76200,gasoline,Gray,Beige,None reported,420.0,3.6,6.0,unknown
+mercedes-benz,Amg G,2017,73000,gasoline,White,Black,Accident Reported,563.0,5.5,8.0,Automatic
+bmw,325 Ci,2004,178000,gasoline,Blue,Brown,None reported,184.0,2.5,6.0,Automatic
+kia,Sportage Plug-In,2023,1340,plug-in hybrid,Black,Black,None reported,177.0,1.6,4.0,Automatic
+lexus,Is 250,2011,107818,gasoline,Gray,Beige,Accident Reported,204.0,2.5,6.0,Automatic
+ford,F-150 Lariat,2019,81000,gasoline,Gray,Black,None reported,375.0,3.5,6.0,Automatic
+buick,Envision Essence,2020,27340,gasoline,Summit White,Ebony,None reported,310.0,2.5,6.0,Automatic
+audi,Q5 S,2022,18099,hybrid,Daytona Gray,Gray,None reported,310.0,2.0,6.0,Automatic
+toyota,Highlander Xle,2023,8727,gasoline,Ruby Flare Pearl,Black,None reported,310.0,2.4,6.0,Automatic
+gmc,Sierra 2500,2020,52673,diesel,Black,Beige,None reported,445.0,6.6,8.0,Automatic
+rivian,R1S Adventure,2023,1150,unknown,Green,Black,None reported,835.0,3.5,6.0,Automatic
+bmw,X5 M,2017,61773,gasoline,Gray,Black,None reported,567.0,4.4,8.0,unknown
+porsche,Cayenne Platinum,2018,50166,gasoline,White,Black,Accident Reported,310.0,3.6,6.0,Automatic
+pontiac,Firebird Trans,2001,71448,gasoline,Gray,Black,None reported,200.0,3.8,6.0,Automatic
+audi,A7 Premium,2012,103272,gasoline,Black,Brown,None reported,310.0,3.0,6.0,Automatic
+bmw,M2 Base,2023,1160,gasoline,Gray,Black,None reported,453.0,3.0,6.0,Manual
+alfa,Romeo Stelvio,2018,50000,gasoline,Brown,Brown,None reported,280.0,2.0,4.0,Automatic
+ford,Mustang Mach-E,2023,923,unknown,Rapid Red Metallic Tinted Clearcoat,Black Onyx,None reported,310.0,3.5,6.0,Automatic
+mercedes-benz,Amg Gle,2019,28755,gasoline,Black,Black,None reported,385.0,3.0,6.0,Automatic
+nissan,Gt-R Premium,2009,60747,gasoline,White,–,Accident Reported,480.0,3.8,6.0,Automatic
+bmw,X3 Xdrive30I,2021,27000,gasoline,Black,Brown,None reported,248.0,2.0,4.0,Automatic
+jaguar,F-Type R,2016,11684,gasoline,Black,Black,None reported,550.0,5.0,8.0,Automatic
+mini,Countryman Cooper,2014,79000,gasoline,White,Black,None reported,181.0,1.6,4.0,unknown
+mercedes-benz,Cla-Class Cla,2015,76753,gasoline,Red,Black,Accident Reported,208.0,2.0,4.0,Automatic
+toyota,C-Hr Le,2020,14065,gasoline,Gray,Black,Accident Reported,310.0,2.0,6.0,CVT
+porsche,911 Carrera,2015,36000,gasoline,Black,Black,None reported,400.0,3.8,6.0,Automatic
+toyota,Sequoia Sr5,2002,244200,gasoline,White,–,Accident Reported,240.0,4.7,8.0,Automatic
+audi,Q8 55,2021,30000,hybrid,Black,Black,None reported,335.0,3.0,6.0,Automatic
+ford,Transit-250 Base,2020,53000,gasoline,White,Black,Accident Reported,310.0,3.5,6.0,Automatic
+jaguar,Xk8 Base,1999,15000,gasoline,Green,Beige,None reported,290.0,4.0,8.0,Automatic
+ford,Transit-350 Xl,2018,95000,e85 flex fuel,White,Gray,None reported,275.0,3.7,6.0,Automatic
+mini,Hardtop Cooper,2014,19700,gasoline,Silver,Black,None reported,189.0,2.0,4.0,Automatic
+ford,Shelby Gt350R,2018,18500,gasoline,Blue,Black,Accident Reported,526.0,5.2,8.0,Manual
+jaguar,F-Type V6,2014,62194,gasoline,Black,Black,None reported,310.0,3.0,6.0,Automatic
+bmw,X7 Xdrive40I,2023,2950,hybrid,Black,Brown,None reported,375.0,3.0,6.0,Automatic
+chevrolet,Camaro 2Ss,2016,74000,gasoline,Black,Black,None reported,455.0,6.2,8.0,Automatic
+audi,S3 2.0T,2018,16400,gasoline,Blue,Red,None reported,292.0,2.0,4.0,Automatic
+audi,Q5 2.0T,2015,54700,e85 flex fuel,Gray,Brown,Accident Reported,220.0,2.0,4.0,Automatic
+bmw,I8 Base,2015,51000,plug-in hybrid,Gray,Brown,None reported,357.0,1.5,3.0,unknown
+land,Rover Range,2020,36500,gasoline,White,Red,None reported,550.0,5.0,8.0,unknown
+lexus,Gx 460,2021,17710,gasoline,White,Red,None reported,301.0,4.6,8.0,Automatic
+bmw,X5 Xdrive40I,2020,37000,gasoline,Black,Black,Accident Reported,335.0,3.0,6.0,Automatic
+land,Rover Range,2016,56842,gasoline,Silver,Black,None reported,510.0,5.0,8.0,unknown
+subaru,Brz Limited,2013,46452,gasoline,Gray,Black,None reported,200.0,2.0,4.0,Manual
+volkswagen,Arteon Sel,2022,18655,gasoline,Oryx White Prl,Titan Black,None reported,310.0,2.0,6.0,Automatic
+chevrolet,Corvette Base,2006,39132,gasoline,Red,Beige,None reported,400.0,6.0,8.0,unknown
+lexus,Is 350,2007,103000,gasoline,Red,Beige,Accident Reported,306.0,3.5,6.0,Automatic
+porsche,Cayenne Gts,2016,64600,gasoline,White,Red,None reported,440.0,3.6,6.0,Automatic
+nissan,Leaf S,2018,56450,unknown,Black,Black,Accident Reported,147.0,3.5,6.0,Automatic
+mini,Cooper S,2007,110022,gasoline,Silver,Black,None reported,172.0,1.6,4.0,Manual
+acura,Mdx W/Technology,2023,3415,gasoline,White,Parchment.,None reported,310.0,3.5,6.0,unknown
+cadillac,Cts-V Base,2017,48600,gasoline,Black,Black,None reported,640.0,6.2,8.0,unknown
+bmw,M4 Base,2018,10950,gasoline,White,White,None reported,425.0,3.0,6.0,Manual
+chevrolet,Corvette Base,2005,143095,gasoline,Red,Black,None reported,400.0,6.0,8.0,Automatic
+land,Rover Range,2019,42000,gasoline,White,Black,None reported,340.0,3.0,6.0,unknown
+lincoln,Continental Reserve,2017,56846,gasoline,White,Beige,None reported,335.0,2.7,6.0,unknown
+ford,Bronco Big,2023,12000,gasoline,Black,–,None reported,275.0,2.3,4.0,Automatic
+audi,Q7 3.0T,2017,108000,gasoline,Gray,Brown,None reported,333.0,3.0,6.0,Automatic
+honda,Odyssey Elite,2019,82000,gasoline,Silver,Black,None reported,280.0,3.5,6.0,Automatic
+cadillac,Cts 2.0L,2019,46000,gasoline,Black,Beige,Accident Reported,265.0,2.0,4.0,Automatic
+audi,A8 L,2016,55000,gasoline,White,Brown,None reported,333.0,3.0,6.0,Automatic
+land,Rover Defender,2022,3000,gasoline,Black,Black,None reported,518.0,5.0,8.0,Automatic
+mercedes-benz,E-Class E,2018,22558,gasoline,Black,Black,None reported,310.0,3.0,6.0,Automatic
+ford,Mustang Gt,2014,38560,gasoline,Black,Black,Accident Reported,420.0,5.0,8.0,Manual
+kia,Sorento Lx,2021,54200,gasoline,White,Black,None reported,191.0,2.5,4.0,Automatic
+infiniti,Qx70 Base,2014,71097,gasoline,Black,Black,None reported,325.0,3.7,6.0,Automatic
+mercedes-benz,C-Class C,2012,122000,gasoline,White,White,None reported,201.0,1.8,4.0,Automatic
+bmw,135 I,2011,132000,gasoline,Black,Beige,None reported,300.0,3.0,6.0,Automatic
+toyota,Fj Cruiser,2013,53000,gasoline,Blue,Black,None reported,260.0,4.0,6.0,Automatic
+porsche,Macan Base,2018,36798,gasoline,Volcano Grey Metallic,Black,Accident Reported,310.0,2.0,6.0,Automatic
+infiniti,Q50 3.0T,2020,23344,gasoline,Liquid Platinum,White,None reported,310.0,3.0,6.0,Automatic
+hyundai,Sonata Hybrid,2015,66000,hybrid,White,Gray,Accident Reported,199.0,2.4,4.0,Automatic
+lexus,Rx 450H,2012,239000,hybrid,Black,Black,None reported,295.0,3.5,6.0,Automatic
+honda,S2000 Cr,2008,82323,gasoline,Black,Black,None reported,237.0,2.2,4.0,Manual
+mercedes-benz,Sl-Class Sl,2013,130000,gasoline,Gray,Beige,Accident Reported,429.0,4.6,8.0,Automatic
+honda,Civic Ex,2014,82500,gasoline,Silver,Gray,None reported,143.0,1.8,4.0,CVT
+bmw,X5 Edrive,2018,45090,plug-in hybrid,Gray,Black,Accident Reported,313.0,2.0,4.0,Automatic
+lexus,Nx 200T,2016,83400,gasoline,Blue,Brown,Accident Reported,235.0,2.0,4.0,Automatic
+subaru,Outback 2.5I,2019,77000,gasoline,Gray,Gray,Accident Reported,175.0,2.5,4.0,CVT
+chrysler,200 Limited,2015,95271,e85 flex fuel,Black,Black,None reported,184.0,2.4,4.0,Automatic
+ram,Promaster 2500,2016,49750,gasoline,Black,Gray,None reported,280.0,3.6,6.0,Automatic
+lexus,Gx 460,2017,82975,gasoline,White,Beige,None reported,301.0,4.6,8.0,Automatic
+ford,Explorer Limited,2018,86000,gasoline,Black,Black,None reported,290.0,3.5,6.0,unknown
+ford,Fusion Se,2016,68000,gasoline,Black,Black,None reported,175.0,2.5,4.0,Automatic
+mercedes-benz,E-Class E,2014,67350,gasoline,Silver,–,Accident Reported,302.0,3.5,6.0,Automatic
+bmw,Alpina B7,2015,86000,gasoline,Black,White,Accident Reported,540.0,4.4,8.0,Automatic
+chevrolet,Suburban 1500,2010,162671,e85 flex fuel,Black,Black,None reported,320.0,5.3,8.0,Automatic
+toyota,Gr86 Premium,2022,1275,gasoline,Blue,Black,None reported,228.0,2.4,4.0,Automatic
+ford,Maverick Xlt,2022,16400,hybrid,Gray,Gray,None reported,191.0,2.5,4.0,CVT
+ford,Mustang Gt,2011,133504,gasoline,Black,Black,None reported,412.0,5.0,8.0,Manual
+toyota,Tacoma Trd,2019,40698,gasoline,Super White,Black,None reported,310.0,3.5,6.0,unknown
+toyota,Prius V,2016,86300,hybrid,Gray,Black,Accident Reported,134.0,1.8,4.0,Automatic
+ford,Shelby Gt500,2014,15629,gasoline,Black,Black,None reported,310.0,5.8,6.0,Manual
+bmw,750 750I,2021,10917,gasoline,Black,Black,None reported,310.0,4.4,6.0,Automatic
+mercedes-benz,C-Class C,2020,14220,gasoline,Blue,Beige,None reported,255.0,2.0,4.0,Automatic
+honda,Ridgeline Rtl-E,2022,9642,gasoline,Radiant Red Metallic II,Black,None reported,310.0,3.5,6.0,Automatic
+bmw,740 I,2017,55000,gasoline,White,Black,None reported,320.0,3.0,6.0,unknown
+lexus,Gs 350,2016,128032,gasoline,Silver,Black,None reported,311.0,3.5,6.0,unknown
+chevrolet,Camaro Lt1,2022,7652,gasoline,Blue,Jet Black,None reported,310.0,6.2,6.0,Automatic
+ford,Mustang Gt,2018,53782,gasoline,Black,Black,Accident Reported,460.0,5.0,8.0,Manual
+chevrolet,Silverado 2500,2001,167000,gasoline,White,Gray,Accident Reported,300.0,6.0,8.0,Automatic
+chevrolet,Silverado 1500,2019,56654,gasoline,Cajun Red Tintcoat,Jet Black,None reported,310.0,6.2,6.0,Automatic
+dodge,Dart Se,2013,153250,gasoline,Silver,Black,None reported,160.0,1.4,4.0,Automatic
+ford,Mustang Bullitt,2019,48500,gasoline,Black,Black,Accident Reported,480.0,5.0,8.0,Manual
+bmw,I3 Base,2015,26000,unknown,White,Beige,None reported,170.0,0.65,6.0,Automatic
+jeep,Wrangler Sport,2023,7102,gasoline,Bright White Clearcoat,Black,None reported,310.0,2.0,6.0,Automatic
+hyundai,Genesis Coupe,2015,60000,gasoline,Black,Black,None reported,348.0,3.8,6.0,unknown
+tesla,Model Y,2021,49252,unknown,Deep Blue Metallic,Black,None reported,310.0,3.5,6.0,Automatic
+chevrolet,Suburban Lt,2022,37806,gasoline,Black,Black,None reported,355.0,5.3,8.0,Automatic
+lotus,Evora Base,2010,9100,gasoline,Black,White,None reported,276.0,3.5,6.0,Manual
+mini,Cooper S,2012,66000,gasoline,White,Black,None reported,181.0,1.6,4.0,Automatic
+land,Rover Range,2013,57000,gasoline,White,Beige,None reported,510.0,5.0,8.0,unknown
+toyota,Tundra Limited,2020,44101,gasoline,Gray,Black,None reported,310.0,5.7,6.0,Automatic

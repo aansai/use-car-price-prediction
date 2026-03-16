@@ -13,7 +13,7 @@ stages:
     outs:
     - data/interim
   model_evalute:
-    cmd: src\models\model_evalute.py
+    cmd: python src\models\model_evalute.py
     deps:
     - data/interim
     - src\models\model_evalute.py
